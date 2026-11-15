@@ -1,0 +1,43 @@
+{
+  "id": "atr72",
+  "name": "ATR 72-600",
+  "manufacturer": "ATR",
+  "variant": "ATR 72-600",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "France / Italy",
+  "role": "Regional turboprop airliner",
+  "specs": {
+    "length_m": 27.17,
+    "wingspan_m": 27.05,
+    "height_m": 7.65,
+    "wing_area_m2": 61,
+    "empty_weight_kg": 13500,
+    "mtow_kg": 23000,
+    "max_speed_kmh": 511,
+    "cruise_speed_kmh": 510,
+    "range_km": 1528,
+    "ceiling_m": 7620,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney Canada PW127M turboprop, 1,846 kW each",
+    "power_kw_total": 3692,
+    "crew": 2,
+    "passengers": 72,
+    "first_flight": 1988,
+    "introduced": 1989,
+    "number_built": 1800,
+    "unit_cost_usd_m": 26
+  },
+  "notes": {
+    "passengers": "typical; maximum 78",
+    "unit_cost_usd_m": "2019 list price",
+    "number_built": "approx. all ATR 72 variants",
+    "first_flight": "ATR 72-200"
+  },
+  "drawing": {
+    "title": "ATR family v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:ATR_family_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

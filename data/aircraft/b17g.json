@@ -1,0 +1,43 @@
+{
+  "id": "b17g",
+  "name": "Boeing B-17 Flying Fortress",
+  "manufacturer": "Boeing",
+  "variant": "B-17G",
+  "category": "bomber",
+  "sector": "military",
+  "country": "United States",
+  "role": "WWII heavy bomber",
+  "specs": {
+    "length_m": 22.66,
+    "wingspan_m": 31.62,
+    "height_m": 5.82,
+    "wing_area_m2": 131.92,
+    "empty_weight_kg": 16391,
+    "mtow_kg": 29710,
+    "max_speed_kmh": 462,
+    "cruise_speed_kmh": 293,
+    "range_km": 3219,
+    "ceiling_m": 10850,
+    "engine_count": 4,
+    "engine_type": "Wright R-1820-97 Cyclone radial, 895 kW each",
+    "power_kw_total": 3580,
+    "crew": 10,
+    "passengers": 0,
+    "first_flight": 1935,
+    "introduced": 1938,
+    "number_built": 12731,
+    "unit_cost_usd_m": 0.24
+  },
+  "notes": {
+    "range_km": "with 2,700 kg bomb load",
+    "unit_cost_usd_m": "1945 price",
+    "number_built": "all B-17 variants",
+    "height_m": "tail-down on the ground"
+  },
+  "drawing": {
+    "title": "Boeing B-17G Flying Fortress 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_B-17G_Flying_Fortress_3-view_line_drawing.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)"
+  }
+}

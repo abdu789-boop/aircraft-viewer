@@ -1,0 +1,42 @@
+{
+  "id": "pa28",
+  "name": "Piper PA-28 Cherokee",
+  "manufacturer": "Piper Aircraft",
+  "variant": "PA-28-180 Cherokee D",
+  "category": "general-aviation",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Light touring / trainer",
+  "specs": {
+    "length_m": 7.16,
+    "wingspan_m": 9.14,
+    "height_m": 2.22,
+    "wing_area_m2": 14.9,
+    "empty_weight_kg": 557,
+    "mtow_kg": 1089,
+    "max_speed_kmh": 246,
+    "cruise_speed_kmh": 230,
+    "range_km": 1160,
+    "ceiling_m": 5000,
+    "engine_count": 1,
+    "engine_type": "Lycoming O-360-A3A piston, 134 kW (180 hp)",
+    "power_kw_total": 134,
+    "crew": 1,
+    "passengers": 3,
+    "first_flight": 1960,
+    "introduced": 1961,
+    "number_built": 32778,
+    "unit_cost_usd_m": 0.013
+  },
+  "notes": {
+    "number_built": "all PA-28 variants, approx.",
+    "unit_cost_usd_m": "1962 list price, approx.",
+    "range_km": "with 50 US gal tanks, estimate"
+  },
+  "drawing": {
+    "title": "Piper Cherokee.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Piper_Cherokee.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)"
+  }
+}

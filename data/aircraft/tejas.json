@@ -1,0 +1,43 @@
+{
+  "id": "tejas",
+  "name": "HAL Tejas",
+  "manufacturer": "Hindustan Aeronautics",
+  "variant": "Tejas Mk 1A",
+  "category": "fighter",
+  "sector": "military",
+  "country": "India",
+  "role": "Light multirole fighter",
+  "specs": {
+    "length_m": 13.2,
+    "wingspan_m": 8.2,
+    "height_m": 4.4,
+    "wing_area_m2": 38.4,
+    "empty_weight_kg": 6560,
+    "mtow_kg": 13500,
+    "max_speed_kmh": 2205,
+    "cruise_speed_kmh": 1000,
+    "range_km": 3000,
+    "ceiling_m": 15240,
+    "engine_count": 1,
+    "engine_type": "General Electric F404-GE-IN20 afterburning turbofan",
+    "thrust_kn_total": 85,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 2001,
+    "introduced": 2015,
+    "number_built": 40,
+    "unit_cost_usd_m": 43
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry",
+    "number_built": "approx. 2024, all Mk 1 variants",
+    "unit_cost_usd_m": "Mk 1A 2021 contract, approx."
+  },
+  "drawing": {
+    "title": "HAL Tejas Mark 1A 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:HAL_Tejas_Mark_1A_3-view_line_drawing.png",
+    "license": "CC BY 4.0",
+    "author": "FoxtAl (Wikimedia Commons)"
+  }
+}

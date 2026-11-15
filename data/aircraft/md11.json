@@ -1,0 +1,41 @@
+{
+  "id": "md11",
+  "name": "McDonnell Douglas MD-11",
+  "manufacturer": "McDonnell Douglas",
+  "variant": "MD-11",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body tri-jet airliner",
+  "specs": {
+    "length_m": 61.62,
+    "wingspan_m": 51.97,
+    "height_m": 17.6,
+    "wing_area_m2": 338.9,
+    "empty_weight_kg": 130165,
+    "mtow_kg": 285990,
+    "max_speed_kmh": 945,
+    "cruise_speed_kmh": 876,
+    "range_km": 12670,
+    "ceiling_m": 13100,
+    "engine_count": 3,
+    "engine_type": "GE CF6-80C2D1F / Pratt & Whitney PW4460 turbofan",
+    "thrust_kn_total": 823,
+    "crew": 2,
+    "passengers": 293,
+    "first_flight": 1990,
+    "introduced": 1990,
+    "number_built": 200,
+    "unit_cost_usd_m": 132
+  },
+  "notes": {
+    "passengers": "typical 3-class; maximum 410",
+    "unit_cost_usd_m": "1998 price, approx."
+  },
+  "drawing": {
+    "title": "McDonnell Douglas MD-11 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-11_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

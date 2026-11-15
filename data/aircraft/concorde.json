@@ -1,0 +1,43 @@
+{
+  "id": "concorde",
+  "name": "Aérospatiale/BAC Concorde",
+  "manufacturer": "Aérospatiale / BAC",
+  "variant": "Concorde 101",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "France / United Kingdom",
+  "role": "Supersonic airliner",
+  "specs": {
+    "length_m": 61.66,
+    "wingspan_m": 25.6,
+    "height_m": 12.2,
+    "wing_area_m2": 358.25,
+    "empty_weight_kg": 78700,
+    "mtow_kg": 185070,
+    "max_speed_kmh": 2179,
+    "cruise_speed_kmh": 2158,
+    "range_km": 7222,
+    "ceiling_m": 18300,
+    "engine_count": 4,
+    "engine_type": "Rolls-Royce/Snecma Olympus 593 Mk 610 afterburning turbojet",
+    "thrust_kn_total": 677,
+    "crew": 3,
+    "passengers": 100,
+    "first_flight": 1969,
+    "introduced": 1976,
+    "number_built": 20,
+    "unit_cost_usd_m": 46
+  },
+  "notes": {
+    "thrust_kn_total": "with reheat",
+    "passengers": "typical; certified up to 128",
+    "unit_cost_usd_m": "approx., £23 M in 1977",
+    "number_built": "including 6 prototypes and pre-production aircraft"
+  },
+  "drawing": {
+    "title": "Concorde v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Concorde_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

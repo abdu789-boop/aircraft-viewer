@@ -1,0 +1,42 @@
+{
+  "id": "bonanza",
+  "name": "Beechcraft Bonanza",
+  "manufacturer": "Beechcraft",
+  "variant": "V35B Bonanza",
+  "category": "general-aviation",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Light single-engine aircraft",
+  "specs": {
+    "length_m": 8.05,
+    "wingspan_m": 10.21,
+    "height_m": 2.31,
+    "wing_area_m2": 16.8,
+    "empty_weight_kg": 940,
+    "mtow_kg": 1542,
+    "max_speed_kmh": 338,
+    "cruise_speed_kmh": 319,
+    "range_km": 1460,
+    "ceiling_m": 5400,
+    "engine_count": 1,
+    "engine_type": "Continental IO-520-BA piston, 213 kW (285 hp)",
+    "power_kw_total": 213,
+    "crew": 1,
+    "passengers": 5,
+    "first_flight": 1945,
+    "introduced": 1947,
+    "number_built": 17000,
+    "unit_cost_usd_m": 0.06
+  },
+  "notes": {
+    "number_built": "all Bonanza variants, approx.",
+    "unit_cost_usd_m": "1970s price, approx.",
+    "first_flight": "Model 35"
+  },
+  "drawing": {
+    "title": "Beechcraft V35B Bonanza 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Beechcraft_V35B_Bonanza_3-view_line_drawing.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)"
+  }
+}

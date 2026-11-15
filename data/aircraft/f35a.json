@@ -1,0 +1,44 @@
+{
+  "id": "f35a",
+  "name": "Lockheed Martin F-35A Lightning II",
+  "manufacturer": "Lockheed Martin",
+  "variant": "F-35A",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Stealth multirole fighter",
+  "specs": {
+    "length_m": 15.67,
+    "wingspan_m": 10.7,
+    "height_m": 4.38,
+    "wing_area_m2": 42.7,
+    "empty_weight_kg": 13290,
+    "mtow_kg": 31800,
+    "max_speed_kmh": 1975,
+    "cruise_speed_kmh": 1100,
+    "range_km": 2800,
+    "ceiling_m": 15240,
+    "engine_count": 1,
+    "engine_type": "Pratt & Whitney F135-PW-100 afterburning turbofan",
+    "thrust_kn_total": 191,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 2006,
+    "introduced": 2016,
+    "number_built": 1000,
+    "unit_cost_usd_m": 82.5
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry, internal fuel approx.",
+    "number_built": "all variants, approx. 2024",
+    "unit_cost_usd_m": "Lot 15 flyaway"
+  },
+  "drawing": {
+    "title": "Lockheed Martin F-35A Lightning II 3-view drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_F-35A_Lightning_II_3-view_drawing.png",
+    "license": "Public domain",
+    "author": "www.jsf.mil (US DoD), composite by The High Fin Sperm Whale (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

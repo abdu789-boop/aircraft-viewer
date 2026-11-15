@@ -1,0 +1,42 @@
+{
+  "id": "a319",
+  "name": "Airbus A319",
+  "manufacturer": "Airbus",
+  "variant": "A319-100",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "European Union",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 33.84,
+    "wingspan_m": 34.1,
+    "height_m": 11.76,
+    "wing_area_m2": 122.6,
+    "empty_weight_kg": 40800,
+    "mtow_kg": 75500,
+    "max_speed_kmh": 871,
+    "cruise_speed_kmh": 828,
+    "range_km": 6950,
+    "ceiling_m": 12500,
+    "engine_count": 2,
+    "engine_type": "CFM56-5B / IAE V2500 turbofan",
+    "thrust_kn_total": 240,
+    "crew": 2,
+    "passengers": 124,
+    "first_flight": 1995,
+    "introduced": 1996,
+    "number_built": 1480,
+    "unit_cost_usd_m": 92.3
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 160",
+    "unit_cost_usd_m": "2018 list price",
+    "number_built": "A319ceo, approx."
+  },
+  "drawing": {
+    "title": "Airbus A319 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Airbus_A319_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

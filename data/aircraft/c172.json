@@ -1,0 +1,38 @@
+{
+  "id": "c172",
+  "name": "Cessna 172 Skyhawk",
+  "manufacturer": "Cessna",
+  "variant": "172S",
+  "category": "general-aviation",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Light utility / trainer",
+  "specs": {
+    "length_m": 8.28,
+    "wingspan_m": 11.0,
+    "height_m": 2.72,
+    "wing_area_m2": 16.2,
+    "empty_weight_kg": 767,
+    "mtow_kg": 1111,
+    "max_speed_kmh": 302,
+    "cruise_speed_kmh": 226,
+    "range_km": 1185,
+    "ceiling_m": 4100,
+    "engine_count": 1,
+    "engine_type": "Lycoming IO-360-L2A piston, 134 kW (180 hp)",
+    "power_kw_total": 134,
+    "crew": 1,
+    "passengers": 3,
+    "first_flight": 1955,
+    "introduced": 1956,
+    "number_built": 44000,
+    "unit_cost_usd_m": 0.4
+  },
+  "notes": { "number_built": "approx., all variants, most-produced aircraft in history", "unit_cost_usd_m": "2023 new 172S" },
+  "drawing": {
+    "title": "Cessna 172 Skyhawk line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Cessna_172_Skyhawk_line_drawing.svg",
+    "license": "Public domain",
+    "author": "Werneuchen (Wikimedia Commons)"
+  }
+}

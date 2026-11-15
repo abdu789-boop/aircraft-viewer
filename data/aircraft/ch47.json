@@ -1,0 +1,46 @@
+{
+  "id": "ch47",
+  "name": "Boeing CH-47 Chinook",
+  "manufacturer": "Boeing Vertol / Boeing",
+  "variant": "CH-47F",
+  "category": "helicopter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Tandem-rotor transport helicopter",
+  "specs": {
+    "length_m": 30.1,
+    "wingspan_m": 18.3,
+    "height_m": 5.77,
+    "wing_area_m2": 526,
+    "empty_weight_kg": 11148,
+    "mtow_kg": 22680,
+    "max_speed_kmh": 315,
+    "cruise_speed_kmh": 296,
+    "range_km": 740,
+    "ceiling_m": 6100,
+    "engine_count": 2,
+    "engine_type": "Honeywell T55-GA-714A turboshaft, 3,529 kW each",
+    "power_kw_total": 7058,
+    "crew": 3,
+    "passengers": 33,
+    "first_flight": 1961,
+    "introduced": 1962,
+    "number_built": 1300,
+    "unit_cost_usd_m": 38.5
+  },
+  "notes": {
+    "length_m": "with rotors turning; fuselage 15.9 m",
+    "wingspan_m": "rotor diameter (each of two rotors)",
+    "wing_area_m2": "total rotor disc area",
+    "passengers": "troops; up to 55",
+    "first_flight": "CH-47A",
+    "number_built": "all variants, approx.",
+    "unit_cost_usd_m": "CH-47F FY2016"
+  },
+  "drawing": {
+    "title": "Boeing CH-47 Chinook 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_CH-47_Chinook_3-view_line_drawing.svg",
+    "license": "CC BY 3.0",
+    "author": "Jetijones (Wikimedia Commons)"
+  }
+}

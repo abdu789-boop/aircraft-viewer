@@ -1,0 +1,43 @@
+{
+  "id": "a350-1000",
+  "name": "Airbus A350-1000",
+  "manufacturer": "Airbus",
+  "variant": "A350-1041",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "European Union",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 73.79,
+    "wingspan_m": 64.75,
+    "height_m": 17.08,
+    "wing_area_m2": 464,
+    "empty_weight_kg": 155000,
+    "mtow_kg": 316000,
+    "max_speed_kmh": 945,
+    "cruise_speed_kmh": 903,
+    "range_km": 16100,
+    "ceiling_m": 13100,
+    "engine_count": 2,
+    "engine_type": "Rolls-Royce Trent XWB-97 turbofan",
+    "thrust_kn_total": 862,
+    "crew": 2,
+    "passengers": 369,
+    "first_flight": 2016,
+    "introduced": 2018,
+    "number_built": 100,
+    "unit_cost_usd_m": 366.5
+  },
+  "notes": {
+    "passengers": "typical 3-class; maximum 480",
+    "unit_cost_usd_m": "2018 list price",
+    "number_built": "approx. 2024",
+    "drawing": "APPROXIMATE: no 3-view exists on Commons. Side view from the public-domain A350 profile; top and front views are the A330-300 drawing stretched to A350-1000 length and scaled to its span (the real A350 wing is more swept, with blended winglets); the profile's belly fairing is closed by the drawing's dimension line, so it sits slightly deep"
+  },
+  "drawing": {
+    "title": "A350 variant sizes.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:A350_variant_sizes.svg",
+    "license": "Public domain / CC BY-SA 3.0",
+    "author": "Aborisov (side profile, public domain); top and front views derived from Julien.scavini's Airbus A330-300 v1.0.png (CC BY-SA 3.0)"
+  }
+}

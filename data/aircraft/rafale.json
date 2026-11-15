@@ -1,0 +1,44 @@
+{
+  "id": "rafale",
+  "name": "Dassault Rafale",
+  "manufacturer": "Dassault Aviation",
+  "variant": "Rafale C",
+  "category": "fighter",
+  "sector": "military",
+  "country": "France",
+  "role": "Multirole fighter",
+  "specs": {
+    "length_m": 15.27,
+    "wingspan_m": 10.9,
+    "height_m": 5.34,
+    "wing_area_m2": 45.7,
+    "empty_weight_kg": 10300,
+    "mtow_kg": 24500,
+    "max_speed_kmh": 1912,
+    "cruise_speed_kmh": 1390,
+    "range_km": 3700,
+    "ceiling_m": 15835,
+    "engine_count": 2,
+    "engine_type": "Snecma M88-2 afterburning turbofan",
+    "thrust_kn_total": 150,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1991,
+    "introduced": 2001,
+    "number_built": 260,
+    "unit_cost_usd_m": 90
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry with three external tanks",
+    "number_built": "approx. 2024",
+    "unit_cost_usd_m": "approx. flyaway"
+  },
+  "drawing": {
+    "title": "Dassault Rafale 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Dassault_Rafale_3-view_line_drawing.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

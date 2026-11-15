@@ -1,0 +1,42 @@
+{
+  "id": "b737-200",
+  "name": "Boeing 737-200",
+  "manufacturer": "Boeing",
+  "variant": "737-200 Advanced",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 30.53,
+    "wingspan_m": 28.35,
+    "height_m": 11.28,
+    "wing_area_m2": 102,
+    "empty_weight_kg": 27448,
+    "mtow_kg": 58100,
+    "max_speed_kmh": 876,
+    "cruise_speed_kmh": 780,
+    "range_km": 4260,
+    "ceiling_m": 10700,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney JT8D-15 turbofan",
+    "thrust_kn_total": 138,
+    "crew": 2,
+    "passengers": 115,
+    "first_flight": 1967,
+    "introduced": 1968,
+    "number_built": 1114,
+    "unit_cost_usd_m": 5
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 136",
+    "unit_cost_usd_m": "1970s price, approx.",
+    "number_built": "737-200 only"
+  },
+  "drawing": {
+    "title": "Boeing 737-200 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_737-200_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

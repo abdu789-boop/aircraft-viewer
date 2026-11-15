@@ -1,0 +1,43 @@
+{
+  "id": "b1b",
+  "name": "Rockwell B-1 Lancer",
+  "manufacturer": "Rockwell International",
+  "variant": "B-1B",
+  "category": "bomber",
+  "sector": "military",
+  "country": "United States",
+  "role": "Supersonic strategic bomber",
+  "specs": {
+    "length_m": 44.5,
+    "wingspan_m": 41.8,
+    "height_m": 10.4,
+    "wing_area_m2": 181.2,
+    "empty_weight_kg": 87100,
+    "mtow_kg": 216400,
+    "max_speed_kmh": 1335,
+    "cruise_speed_kmh": 1100,
+    "range_km": 9400,
+    "ceiling_m": 18000,
+    "engine_count": 4,
+    "engine_type": "General Electric F101-GE-102 afterburning turbofan",
+    "thrust_kn_total": 548,
+    "crew": 4,
+    "passengers": 0,
+    "first_flight": 1984,
+    "introduced": 1986,
+    "number_built": 100,
+    "unit_cost_usd_m": 283
+  },
+  "notes": {
+    "wingspan_m": "wings extended as drawn; 24.1 m fully swept",
+    "cruise_speed_kmh": "estimate",
+    "first_flight": "B-1B; B-1A flew 1974",
+    "unit_cost_usd_m": "FY1998"
+  },
+  "drawing": {
+    "title": "Rockwell B-1B Lancer 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Rockwell_B-1B_Lancer_3-view_line_drawing.png",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 via Wikimedia Commons (airdefense.bliss.army.mil)"
+  }
+}

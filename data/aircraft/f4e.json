@@ -1,0 +1,44 @@
+{
+  "id": "f4e",
+  "name": "McDonnell Douglas F-4 Phantom II",
+  "manufacturer": "McDonnell Douglas",
+  "variant": "F-4E",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Fighter-bomber / interceptor",
+  "specs": {
+    "length_m": 19.2,
+    "wingspan_m": 11.7,
+    "height_m": 5.0,
+    "wing_area_m2": 49.2,
+    "empty_weight_kg": 13757,
+    "mtow_kg": 28030,
+    "max_speed_kmh": 2370,
+    "cruise_speed_kmh": 940,
+    "range_km": 2600,
+    "ceiling_m": 18300,
+    "engine_count": 2,
+    "engine_type": "General Electric J79-GE-17A afterburning turbojet",
+    "thrust_kn_total": 159,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1958,
+    "introduced": 1961,
+    "number_built": 5195,
+    "unit_cost_usd_m": 2.4
+  },
+  "notes": {
+    "range_km": "ferry with external tanks",
+    "unit_cost_usd_m": "1965 price",
+    "number_built": "all F-4 variants",
+    "cruise_speed_kmh": "estimate"
+  },
+  "drawing": {
+    "title": "McDonnell Douglas F-4E Phantom II 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_F-4E_Phantom_II_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

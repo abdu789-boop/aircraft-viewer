@@ -1,0 +1,43 @@
+{
+  "id": "tu160",
+  "name": "Tupolev Tu-160 Blackjack",
+  "manufacturer": "Tupolev",
+  "variant": "Tu-160",
+  "category": "bomber",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Supersonic strategic bomber",
+  "specs": {
+    "length_m": 54.1,
+    "wingspan_m": 55.7,
+    "height_m": 13.1,
+    "wing_area_m2": 400,
+    "empty_weight_kg": 110000,
+    "mtow_kg": 275000,
+    "max_speed_kmh": 2220,
+    "cruise_speed_kmh": 960,
+    "range_km": 12300,
+    "ceiling_m": 16000,
+    "engine_count": 4,
+    "engine_type": "Kuznetsov NK-32 afterburning turbofan",
+    "thrust_kn_total": 980,
+    "crew": 4,
+    "passengers": 0,
+    "first_flight": 1981,
+    "introduced": 1987,
+    "number_built": 36,
+    "unit_cost_usd_m": 250
+  },
+  "notes": {
+    "wingspan_m": "wings extended as drawn; 35.6 m fully swept",
+    "number_built": "original production; new-build Tu-160M from 2022",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "Tupolew Tu 160 8001.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Tupolew_Tu_160_8001.svg",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 series, vectorised (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

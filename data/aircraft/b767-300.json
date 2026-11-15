@@ -1,0 +1,43 @@
+{
+  "id": "b767-300",
+  "name": "Boeing 767-300ER",
+  "manufacturer": "Boeing",
+  "variant": "767-300ER",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 54.94,
+    "wingspan_m": 47.57,
+    "height_m": 15.85,
+    "wing_area_m2": 283.3,
+    "empty_weight_kg": 90010,
+    "mtow_kg": 186880,
+    "max_speed_kmh": 913,
+    "cruise_speed_kmh": 851,
+    "range_km": 11070,
+    "ceiling_m": 13100,
+    "engine_count": 2,
+    "engine_type": "GE CF6-80C2 / Pratt & Whitney PW4060 / RB211-524 turbofan",
+    "thrust_kn_total": 540,
+    "crew": 2,
+    "passengers": 218,
+    "first_flight": 1986,
+    "introduced": 1988,
+    "number_built": 1300,
+    "unit_cost_usd_m": 217.9
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 351",
+    "unit_cost_usd_m": "2018 list price (767-300F)",
+    "number_built": "approx. all 767 variants",
+    "drawing": "front view traced from the 767-200 in the same drawing (same wing and fuselage cross-section)"
+  },
+  "drawing": {
+    "title": "Boeing 767 family v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_767_family_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b767-200",
+  "name": "Boeing 767-200ER",
+  "manufacturer": "Boeing",
+  "variant": "767-200ER",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 48.51,
+    "wingspan_m": 47.57,
+    "height_m": 15.85,
+    "wing_area_m2": 283.3,
+    "empty_weight_kg": 82380,
+    "mtow_kg": 179170,
+    "max_speed_kmh": 913,
+    "cruise_speed_kmh": 851,
+    "range_km": 12200,
+    "ceiling_m": 13100,
+    "engine_count": 2,
+    "engine_type": "GE CF6-80C2 / Pratt & Whitney PW4056 turbofan",
+    "thrust_kn_total": 500,
+    "crew": 2,
+    "passengers": 181,
+    "first_flight": 1981,
+    "introduced": 1982,
+    "number_built": 249,
+    "unit_cost_usd_m": 100
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 255",
+    "unit_cost_usd_m": "1990s price, approx.",
+    "number_built": "767-200 and -200ER",
+    "first_flight": "767-200; -200ER delivered 1984"
+  },
+  "drawing": {
+    "title": "Boeing 767 family v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_767_family_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

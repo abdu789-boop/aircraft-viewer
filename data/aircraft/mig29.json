@@ -1,0 +1,44 @@
+{
+  "id": "mig29",
+  "name": "Mikoyan MiG-29 Fulcrum",
+  "manufacturer": "Mikoyan",
+  "variant": "MiG-29 (9-12)",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Air superiority fighter",
+  "specs": {
+    "length_m": 17.32,
+    "wingspan_m": 11.36,
+    "height_m": 4.73,
+    "wing_area_m2": 38,
+    "empty_weight_kg": 11000,
+    "mtow_kg": 18000,
+    "max_speed_kmh": 2400,
+    "cruise_speed_kmh": 1000,
+    "range_km": 2100,
+    "ceiling_m": 18000,
+    "engine_count": 2,
+    "engine_type": "Klimov RD-33 afterburning turbofan",
+    "thrust_kn_total": 163,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1977,
+    "introduced": 1983,
+    "number_built": 1600,
+    "unit_cost_usd_m": 29
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "with one external tank",
+    "number_built": "approx., all variants",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "Mikoyan MiG-29 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mikoyan_MiG-29_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

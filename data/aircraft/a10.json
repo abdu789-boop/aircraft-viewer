@@ -1,0 +1,42 @@
+{
+  "id": "a10",
+  "name": "Fairchild Republic A-10 Thunderbolt II",
+  "manufacturer": "Fairchild Republic",
+  "variant": "A-10C",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Close air support attack aircraft",
+  "specs": {
+    "length_m": 16.26,
+    "wingspan_m": 17.53,
+    "height_m": 4.47,
+    "wing_area_m2": 47.0,
+    "empty_weight_kg": 11321,
+    "mtow_kg": 23000,
+    "max_speed_kmh": 706,
+    "cruise_speed_kmh": 560,
+    "range_km": 4150,
+    "ceiling_m": 13700,
+    "engine_count": 2,
+    "engine_type": "General Electric TF34-GE-100A turbofan",
+    "thrust_kn_total": 80,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1972,
+    "introduced": 1977,
+    "number_built": 716,
+    "unit_cost_usd_m": 18.8
+  },
+  "notes": {
+    "range_km": "ferry",
+    "unit_cost_usd_m": "FY1994 (A-10A)"
+  },
+  "drawing": {
+    "title": "Fairchild Republic A-10 Thunderbolt II 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Fairchild_Republic_A-10_Thunderbolt_II_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

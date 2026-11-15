@@ -1,0 +1,43 @@
+{
+  "id": "b737-800",
+  "name": "Boeing 737-800",
+  "manufacturer": "Boeing",
+  "variant": "737-800",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 39.47,
+    "wingspan_m": 35.79,
+    "height_m": 12.55,
+    "wing_area_m2": 124.6,
+    "empty_weight_kg": 41413,
+    "mtow_kg": 79016,
+    "max_speed_kmh": 876,
+    "cruise_speed_kmh": 842,
+    "range_km": 5436,
+    "ceiling_m": 12500,
+    "engine_count": 2,
+    "engine_type": "CFM International CFM56-7B26 turbofan",
+    "thrust_kn_total": 234,
+    "crew": 2,
+    "passengers": 162,
+    "first_flight": 1997,
+    "introduced": 1998,
+    "number_built": 4991,
+    "unit_cost_usd_m": 106.1
+  },
+  "notes": {
+    "wingspan_m": "with blended winglets as drawn; 34.32 m without",
+    "passengers": "typical 2-class; maximum 189",
+    "unit_cost_usd_m": "2018 list price",
+    "number_built": "all 737-800 (production ended 2020)"
+  },
+  "drawing": {
+    "title": "Boeing 737-800 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_737-800_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tornado",
+  "name": "Panavia Tornado",
+  "manufacturer": "Panavia",
+  "variant": "Tornado IDS / GR4",
+  "category": "fighter",
+  "sector": "military",
+  "country": "UK / Germany / Italy",
+  "role": "Variable-sweep strike aircraft",
+  "specs": {
+    "length_m": 16.72,
+    "wingspan_m": 13.91,
+    "height_m": 5.95,
+    "wing_area_m2": 26.6,
+    "empty_weight_kg": 13890,
+    "mtow_kg": 28000,
+    "max_speed_kmh": 2400,
+    "cruise_speed_kmh": 1100,
+    "range_km": 3890,
+    "ceiling_m": 15240,
+    "engine_count": 2,
+    "engine_type": "Turbo-Union RB199-34R Mk 103 afterburning turbofan",
+    "thrust_kn_total": 143,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1974,
+    "introduced": 1979,
+    "number_built": 990,
+    "unit_cost_usd_m": 30
+  },
+  "notes": {
+    "wingspan_m": "wings spread (25°) as drawn; 8.60 m fully swept",
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry with four external tanks",
+    "number_built": "all variants incl. ADV",
+    "unit_cost_usd_m": "1998 approx."
+  },
+  "drawing": {
+    "title": "Panavia Tornado IDS 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Panavia_Tornado_IDS_3-view_line_drawing.svg",
+    "license": "Public domain",
+    "author": "A. Khaustov drawing, vectorised on Wikimedia Commons",
+    "gear": "up"
+  }
+}

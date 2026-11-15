@@ -1,0 +1,43 @@
+{
+  "id": "b52h",
+  "name": "Boeing B-52 Stratofortress",
+  "manufacturer": "Boeing",
+  "variant": "B-52H",
+  "category": "bomber",
+  "sector": "military",
+  "country": "United States",
+  "role": "Strategic bomber",
+  "specs": {
+    "length_m": 48.5,
+    "wingspan_m": 56.4,
+    "height_m": 12.4,
+    "wing_area_m2": 370,
+    "empty_weight_kg": 83250,
+    "mtow_kg": 220000,
+    "max_speed_kmh": 1047,
+    "cruise_speed_kmh": 845,
+    "range_km": 14080,
+    "ceiling_m": 15000,
+    "engine_count": 8,
+    "engine_type": "Pratt & Whitney TF33-P-3 turbofan",
+    "thrust_kn_total": 605,
+    "crew": 5,
+    "passengers": 0,
+    "first_flight": 1952,
+    "introduced": 1955,
+    "number_built": 744,
+    "unit_cost_usd_m": 84
+  },
+  "notes": {
+    "number_built": "all variants; 102 B-52H",
+    "first_flight": "YB-52; B-52H flew 1960",
+    "introduced": "B-52B; B-52H entered service 1961",
+    "unit_cost_usd_m": "2012 dollars"
+  },
+  "drawing": {
+    "title": "Boeing B-52H Stratofortress 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_B-52H_Stratofortress_3-view_line_drawing.png",
+    "license": "CC0",
+    "author": "BCMatsuyama (Wikimedia Commons)"
+  }
+}

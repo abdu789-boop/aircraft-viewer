@@ -1,0 +1,42 @@
+{
+  "id": "dc10-30",
+  "name": "McDonnell Douglas DC-10",
+  "manufacturer": "McDonnell Douglas",
+  "variant": "DC-10-30",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body tri-jet airliner",
+  "specs": {
+    "length_m": 55.5,
+    "wingspan_m": 50.4,
+    "height_m": 17.7,
+    "wing_area_m2": 367.7,
+    "empty_weight_kg": 121200,
+    "mtow_kg": 259450,
+    "max_speed_kmh": 982,
+    "cruise_speed_kmh": 908,
+    "range_km": 9600,
+    "ceiling_m": 12800,
+    "engine_count": 3,
+    "engine_type": "General Electric CF6-50C turbofan",
+    "thrust_kn_total": 687,
+    "crew": 3,
+    "passengers": 270,
+    "first_flight": 1970,
+    "introduced": 1971,
+    "number_built": 446,
+    "unit_cost_usd_m": 20
+  },
+  "notes": {
+    "passengers": "typical 3-class; maximum 380",
+    "unit_cost_usd_m": "1970s price, approx.",
+    "number_built": "all DC-10 variants incl. KC-10"
+  },
+  "drawing": {
+    "title": "McDonnell Douglas DC-10-30 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_DC-10-30_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

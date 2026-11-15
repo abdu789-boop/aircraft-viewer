@@ -1,0 +1,41 @@
+{
+  "id": "b717",
+  "name": "Boeing 717-200",
+  "manufacturer": "Boeing",
+  "variant": "717-200",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Regional jet airliner",
+  "specs": {
+    "length_m": 37.8,
+    "wingspan_m": 28.4,
+    "height_m": 8.92,
+    "wing_area_m2": 92.97,
+    "empty_weight_kg": 30617,
+    "mtow_kg": 54885,
+    "max_speed_kmh": 907,
+    "cruise_speed_kmh": 811,
+    "range_km": 3815,
+    "ceiling_m": 11300,
+    "engine_count": 2,
+    "engine_type": "Rolls-Royce BR715 turbofan",
+    "thrust_kn_total": 176,
+    "crew": 2,
+    "passengers": 106,
+    "first_flight": 1998,
+    "introduced": 1999,
+    "number_built": 156,
+    "unit_cost_usd_m": 42
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 134",
+    "unit_cost_usd_m": "2000s price, approx."
+  },
+  "drawing": {
+    "title": "Boeing 717 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_717_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

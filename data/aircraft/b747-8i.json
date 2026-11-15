@@ -1,0 +1,44 @@
+{
+  "id": "b747-8i",
+  "name": "Boeing 747-8 Intercontinental",
+  "manufacturer": "Boeing",
+  "variant": "747-8I",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 76.25,
+    "wingspan_m": 68.4,
+    "height_m": 19.35,
+    "wing_area_m2": 554,
+    "empty_weight_kg": 220128,
+    "mtow_kg": 447696,
+    "max_speed_kmh": 988,
+    "cruise_speed_kmh": 917,
+    "range_km": 14320,
+    "ceiling_m": 13100,
+    "engine_count": 4,
+    "engine_type": "General Electric GEnx-2B67 turbofan",
+    "thrust_kn_total": 1180,
+    "crew": 2,
+    "passengers": 410,
+    "first_flight": 2011,
+    "introduced": 2012,
+    "number_built": 155,
+    "unit_cost_usd_m": 418.4
+  },
+  "notes": {
+    "passengers": "typical 3-class; maximum 605",
+    "unit_cost_usd_m": "2019 list price",
+    "number_built": "all 747-8 incl. freighters",
+    "first_flight": "747-8I; 747-8F flew 2010",
+    "drawing": "side view is the 747-8; top and front views are the 747-100 from the same sheet, scaled to 747-8 dimensions (approximate planform, no raked wingtips)"
+  },
+  "drawing": {
+    "title": "Boeing 747 family v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_747_family_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

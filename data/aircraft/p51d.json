@@ -1,0 +1,44 @@
+{
+  "id": "p51d",
+  "name": "North American P-51 Mustang",
+  "manufacturer": "North American Aviation",
+  "variant": "P-51C (Mustang III)",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "WWII fighter",
+  "specs": {
+    "length_m": 9.83,
+    "wingspan_m": 11.28,
+    "height_m": 3.71,
+    "wing_area_m2": 21.83,
+    "empty_weight_kg": 3465,
+    "mtow_kg": 5490,
+    "max_speed_kmh": 703,
+    "cruise_speed_kmh": 580,
+    "range_km": 2655,
+    "ceiling_m": 12800,
+    "engine_count": 1,
+    "engine_type": "Packard V-1650-7 Merlin V-12, 1,110 kW",
+    "power_kw_total": 1110,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1940,
+    "introduced": 1942,
+    "number_built": 15586,
+    "unit_cost_usd_m": 0.05
+  },
+  "notes": {
+    "range_km": "with external tanks",
+    "unit_cost_usd_m": "1945 price",
+    "number_built": "all Mustang variants",
+    "height_m": "tail-down on the ground",
+    "drawing": "drawing shows the razorback P-51B/C (RAF Mustang III); same dimensions as the P-51D apart from the canopy"
+  },
+  "drawing": {
+    "title": "Mustang Mk. III 3-view drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mustang_Mk._III_3-view_drawing.svg",
+    "license": "CC0",
+    "author": "Marek Cel (Wikimedia Commons)"
+  }
+}

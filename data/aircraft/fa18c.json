@@ -1,0 +1,45 @@
+{
+  "id": "fa18c",
+  "name": "McDonnell Douglas F/A-18 Hornet",
+  "manufacturer": "McDonnell Douglas",
+  "variant": "F/A-18C",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Carrier-based multirole fighter",
+  "specs": {
+    "length_m": 17.07,
+    "wingspan_m": 12.31,
+    "height_m": 4.66,
+    "wing_area_m2": 37.16,
+    "empty_weight_kg": 10455,
+    "mtow_kg": 23541,
+    "max_speed_kmh": 1915,
+    "cruise_speed_kmh": 1060,
+    "range_km": 3330,
+    "ceiling_m": 15240,
+    "engine_count": 2,
+    "engine_type": "General Electric F404-GE-402 afterburning turbofan",
+    "thrust_kn_total": 157,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1978,
+    "introduced": 1983,
+    "number_built": 1480,
+    "unit_cost_usd_m": 29
+  },
+  "notes": {
+    "wingspan_m": "over wingtip missiles as drawn; 11.43 m without",
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry",
+    "number_built": "F/A-18A-D",
+    "unit_cost_usd_m": "FY2006 approx."
+  },
+  "drawing": {
+    "title": "McDonnell Douglas F-A-18 Hornet 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_F-A-18_Hornet_3-view_line_drawing.png",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 via Wikimedia Commons (airdefense.bliss.army.mil)",
+    "gear": "up"
+  }
+}

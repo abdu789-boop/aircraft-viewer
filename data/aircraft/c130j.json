@@ -1,0 +1,44 @@
+{
+  "id": "c130j",
+  "name": "Lockheed Martin C-130J Super Hercules",
+  "manufacturer": "Lockheed Martin",
+  "variant": "C-130J",
+  "category": "transport",
+  "sector": "military",
+  "country": "United States",
+  "role": "Tactical airlifter",
+  "specs": {
+    "length_m": 29.79,
+    "wingspan_m": 40.41,
+    "height_m": 11.84,
+    "wing_area_m2": 162.1,
+    "empty_weight_kg": 34274,
+    "mtow_kg": 74389,
+    "max_speed_kmh": 671,
+    "cruise_speed_kmh": 643,
+    "range_km": 3334,
+    "ceiling_m": 8500,
+    "engine_count": 4,
+    "engine_type": "Rolls-Royce AE 2100D3 turboprop, 3,458 kW (4,637 shp) each",
+    "power_kw_total": 13832,
+    "crew": 3,
+    "passengers": 92,
+    "first_flight": 1996,
+    "introduced": 1999,
+    "number_built": 500,
+    "unit_cost_usd_m": 75
+  },
+  "notes": {
+    "passengers": "troops; 64 paratroops",
+    "range_km": "with 15,900 kg payload",
+    "ceiling_m": "with 19,000 kg payload",
+    "number_built": "approx. 2023",
+    "unit_cost_usd_m": "approx."
+  },
+  "drawing": {
+    "title": "Lockheed C-130J Hercules 3-view drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Lockheed_C-130J_Hercules_3-view_drawing.svg",
+    "license": "CC0",
+    "author": "Marek Cel (Wikimedia Commons)"
+  }
+}

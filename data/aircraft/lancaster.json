@@ -1,0 +1,42 @@
+{
+  "id": "lancaster",
+  "name": "Avro Lancaster",
+  "manufacturer": "Avro",
+  "variant": "Lancaster B.I",
+  "category": "bomber",
+  "sector": "military",
+  "country": "United Kingdom",
+  "role": "WWII heavy bomber",
+  "specs": {
+    "length_m": 21.18,
+    "wingspan_m": 31.09,
+    "height_m": 6.25,
+    "wing_area_m2": 120.5,
+    "empty_weight_kg": 16738,
+    "mtow_kg": 31751,
+    "max_speed_kmh": 454,
+    "cruise_speed_kmh": 322,
+    "range_km": 4073,
+    "ceiling_m": 6500,
+    "engine_count": 4,
+    "engine_type": "Rolls-Royce Merlin XX V-12, 954 kW each",
+    "power_kw_total": 3816,
+    "crew": 7,
+    "passengers": 0,
+    "first_flight": 1941,
+    "introduced": 1942,
+    "number_built": 7377,
+    "unit_cost_usd_m": 0.2
+  },
+  "notes": {
+    "unit_cost_usd_m": "approx. £45,000 in 1943",
+    "height_m": "tail-down on the ground",
+    "drawing": "top view drawn at an angle in the source; straightened with the angle option"
+  },
+  "drawing": {
+    "title": "Avro Lancaster 3-view line drawings.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Avro_Lancaster_3-view_line_drawings.png",
+    "license": "CC BY 3.0",
+    "author": "Emoscopes (Wikimedia Commons)"
+  }
+}

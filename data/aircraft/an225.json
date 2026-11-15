@@ -1,0 +1,43 @@
+{
+  "id": "an225",
+  "name": "Antonov An-225 Mriya",
+  "manufacturer": "Antonov",
+  "variant": "An-225",
+  "category": "transport",
+  "sector": "civilian",
+  "country": "Soviet Union / Ukraine",
+  "role": "Super-heavy strategic airlifter",
+  "specs": {
+    "length_m": 84.0,
+    "wingspan_m": 88.4,
+    "height_m": 18.1,
+    "wing_area_m2": 905,
+    "empty_weight_kg": 285000,
+    "mtow_kg": 640000,
+    "max_speed_kmh": 850,
+    "cruise_speed_kmh": 800,
+    "range_km": 4000,
+    "ceiling_m": 11000,
+    "engine_count": 6,
+    "engine_type": "Progress D-18T turbofan",
+    "thrust_kn_total": 1377,
+    "crew": 6,
+    "passengers": 0,
+    "first_flight": 1988,
+    "introduced": 1989,
+    "number_built": 1,
+    "unit_cost_usd_m": 300
+  },
+  "notes": {
+    "range_km": "with 200 t payload",
+    "number_built": "sole example destroyed in 2022",
+    "unit_cost_usd_m": "estimate",
+    "drawing": "side view traced from the lower (unladen) profile of the drawing"
+  },
+  "drawing": {
+    "title": "Antonov An-225 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Antonov_An-225_3-view.svg",
+    "license": "Public domain",
+    "author": "Cuculcan (Wikimedia Commons)"
+  }
+}

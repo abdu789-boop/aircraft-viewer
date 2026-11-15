@@ -1,0 +1,43 @@
+{
+  "id": "md82",
+  "name": "McDonnell Douglas MD-82",
+  "manufacturer": "McDonnell Douglas",
+  "variant": "MD-82",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 45.06,
+    "wingspan_m": 32.87,
+    "height_m": 9.02,
+    "wing_area_m2": 115.1,
+    "empty_weight_kg": 35300,
+    "mtow_kg": 67812,
+    "max_speed_kmh": 925,
+    "cruise_speed_kmh": 811,
+    "range_km": 3800,
+    "ceiling_m": 11300,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney JT8D-217 turbofan",
+    "thrust_kn_total": 178,
+    "crew": 2,
+    "passengers": 155,
+    "first_flight": 1981,
+    "introduced": 1981,
+    "number_built": 1191,
+    "unit_cost_usd_m": 40
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 172",
+    "unit_cost_usd_m": "1990s price, approx.",
+    "number_built": "all MD-80 variants",
+    "first_flight": "MD-82; MD-81 flew 1979"
+  },
+  "drawing": {
+    "title": "McDonnell Douglas MD-82 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-82_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

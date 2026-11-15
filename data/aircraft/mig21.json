@@ -1,0 +1,44 @@
+{
+  "id": "mig21",
+  "name": "Mikoyan-Gurevich MiG-21",
+  "manufacturer": "Mikoyan-Gurevich",
+  "variant": "MiG-21PF",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Soviet Union",
+  "role": "Interceptor / fighter",
+  "specs": {
+    "length_m": 14.5,
+    "wingspan_m": 7.15,
+    "height_m": 4.12,
+    "wing_area_m2": 23.0,
+    "empty_weight_kg": 5350,
+    "mtow_kg": 9400,
+    "max_speed_kmh": 2175,
+    "cruise_speed_kmh": 900,
+    "range_km": 1670,
+    "ceiling_m": 19000,
+    "engine_count": 1,
+    "engine_type": "Tumansky R-11F2-300 afterburning turbojet",
+    "thrust_kn_total": 60,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1956,
+    "introduced": 1959,
+    "number_built": 11496,
+    "unit_cost_usd_m": 1
+  },
+  "notes": {
+    "length_m": "excluding pitot boom (as drawn, boom included: 15.76 m)",
+    "number_built": "incl. licence production; most-produced supersonic jet",
+    "unit_cost_usd_m": "estimate",
+    "cruise_speed_kmh": "estimate"
+  },
+  "drawing": {
+    "title": "Mikoyan-Gurevich MiG-21PF 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mikoyan-Gurevich_MiG-21PF_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

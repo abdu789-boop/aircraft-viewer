@@ -1,0 +1,38 @@
+{
+  "id": "b747-400",
+  "name": "Boeing 747-400",
+  "manufacturer": "Boeing",
+  "variant": "747-400",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 70.66,
+    "wingspan_m": 64.44,
+    "height_m": 19.41,
+    "wing_area_m2": 541.2,
+    "empty_weight_kg": 178750,
+    "mtow_kg": 396890,
+    "max_speed_kmh": 988,
+    "cruise_speed_kmh": 913,
+    "range_km": 13490,
+    "ceiling_m": 13750,
+    "engine_count": 4,
+    "engine_type": "PW4056 / CF6-80C2 / RB211-524 turbofan",
+    "thrust_kn_total": 1104,
+    "crew": 2,
+    "passengers": 416,
+    "first_flight": 1988,
+    "introduced": 1989,
+    "number_built": 694,
+    "unit_cost_usd_m": 230
+  },
+  "notes": { "passengers": "3-class typical; up to 524 in 2-class", "unit_cost_usd_m": "2007 list price" },
+  "drawing": {
+    "title": "Boeing 747-400 3view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_747-400_3view.svg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kaboldy (Wikimedia Commons)"
+  }
+}

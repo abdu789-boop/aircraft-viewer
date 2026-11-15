@@ -1,0 +1,39 @@
+{
+  "id": "su27",
+  "name": "Sukhoi Su-27 Flanker",
+  "manufacturer": "Sukhoi",
+  "variant": "Su-27S",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Air superiority fighter",
+  "specs": {
+    "length_m": 21.9,
+    "wingspan_m": 14.7,
+    "height_m": 5.92,
+    "wing_area_m2": 62.0,
+    "empty_weight_kg": 16380,
+    "mtow_kg": 30450,
+    "max_speed_kmh": 2500,
+    "cruise_speed_kmh": 1000,
+    "range_km": 3530,
+    "ceiling_m": 19000,
+    "engine_count": 2,
+    "engine_type": "Saturn AL-31F turbofan",
+    "thrust_kn_total": 245,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1977,
+    "introduced": 1985,
+    "number_built": 680,
+    "unit_cost_usd_m": 30
+  },
+  "notes": { "unit_cost_usd_m": "estimate", "range_km": "at altitude, internal fuel" },
+  "drawing": {
+    "title": "Sukhoi Su-27 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-27_3-view_line_drawing.svg",
+    "license": "Public domain",
+    "author": "Malyszkz (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "uh1h",
+  "name": "Bell UH-1 Iroquois \"Huey\"",
+  "manufacturer": "Bell Helicopter",
+  "variant": "UH-1H",
+  "category": "helicopter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Utility helicopter",
+  "specs": {
+    "length_m": 17.4,
+    "wingspan_m": 14.63,
+    "height_m": 4.41,
+    "wing_area_m2": 168.1,
+    "empty_weight_kg": 2365,
+    "mtow_kg": 4310,
+    "max_speed_kmh": 220,
+    "cruise_speed_kmh": 205,
+    "range_km": 510,
+    "ceiling_m": 5910,
+    "engine_count": 1,
+    "engine_type": "Lycoming T53-L-13 turboshaft, 1,040 kW",
+    "power_kw_total": 1040,
+    "crew": 2,
+    "passengers": 13,
+    "first_flight": 1956,
+    "introduced": 1959,
+    "number_built": 16000,
+    "unit_cost_usd_m": 1
+  },
+  "notes": {
+    "length_m": "with rotors turning; fuselage 12.77 m",
+    "wingspan_m": "main rotor diameter",
+    "wing_area_m2": "main rotor disc area",
+    "passengers": "troops",
+    "number_built": "all UH-1 variants, approx.",
+    "unit_cost_usd_m": "1960s price, approx."
+  },
+  "drawing": {
+    "title": "Bell UH-1 Iroquois Drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Bell_UH-1_Iroquois_Drawing.svg",
+    "license": "CC BY 3.0",
+    "author": "Jetijones (Wikimedia Commons)"
+  }
+}

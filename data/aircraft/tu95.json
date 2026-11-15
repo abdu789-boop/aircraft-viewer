@@ -1,0 +1,42 @@
+{
+  "id": "tu95",
+  "name": "Tupolev Tu-95 Bear",
+  "manufacturer": "Tupolev",
+  "variant": "Tu-95MS",
+  "category": "bomber",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Strategic bomber / missile carrier",
+  "specs": {
+    "length_m": 49.5,
+    "wingspan_m": 51.1,
+    "height_m": 12.12,
+    "wing_area_m2": 310,
+    "empty_weight_kg": 90000,
+    "mtow_kg": 188000,
+    "max_speed_kmh": 925,
+    "cruise_speed_kmh": 710,
+    "range_km": 15000,
+    "ceiling_m": 13716,
+    "engine_count": 4,
+    "engine_type": "Kuznetsov NK-12MP turboprop, 11,000 kW each",
+    "power_kw_total": 44000,
+    "crew": 7,
+    "passengers": 0,
+    "first_flight": 1952,
+    "introduced": 1956,
+    "number_built": 500,
+    "unit_cost_usd_m": 50
+  },
+  "notes": {
+    "unit_cost_usd_m": "estimate",
+    "number_built": "all variants, approx."
+  },
+  "drawing": {
+    "title": "Tupolev Tu-95MS 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Tupolev_Tu-95MS_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

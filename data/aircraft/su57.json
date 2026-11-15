@@ -1,0 +1,44 @@
+{
+  "id": "su57",
+  "name": "Sukhoi Su-57 Felon",
+  "manufacturer": "Sukhoi",
+  "variant": "Su-57",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Russia",
+  "role": "Stealth multirole fighter",
+  "specs": {
+    "length_m": 20.1,
+    "wingspan_m": 14.1,
+    "height_m": 4.74,
+    "wing_area_m2": 78.8,
+    "empty_weight_kg": 18500,
+    "mtow_kg": 35000,
+    "max_speed_kmh": 2135,
+    "cruise_speed_kmh": 1380,
+    "range_km": 3500,
+    "ceiling_m": 20000,
+    "engine_count": 2,
+    "engine_type": "Saturn AL-41F1 afterburning turbofan",
+    "thrust_kn_total": 294,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 2010,
+    "introduced": 2020,
+    "number_built": 30,
+    "unit_cost_usd_m": 40
+  },
+  "notes": {
+    "cruise_speed_kmh": "supercruise, estimate",
+    "number_built": "estimate, 2024",
+    "unit_cost_usd_m": "estimate",
+    "drawing": "drawing is the T-50 prototype, derived from patent views"
+  },
+  "drawing": {
+    "title": "Sukhoi T-50 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Sukhoi_T-50_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "XaHyMaH (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

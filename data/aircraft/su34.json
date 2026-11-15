@@ -1,0 +1,44 @@
+{
+  "id": "su34",
+  "name": "Sukhoi Su-34 Fullback",
+  "manufacturer": "Sukhoi",
+  "variant": "Su-34",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Russia",
+  "role": "Fighter-bomber / strike aircraft",
+  "specs": {
+    "length_m": 23.34,
+    "wingspan_m": 14.7,
+    "height_m": 6.09,
+    "wing_area_m2": 62.0,
+    "empty_weight_kg": 22500,
+    "mtow_kg": 45100,
+    "max_speed_kmh": 1900,
+    "cruise_speed_kmh": 1200,
+    "range_km": 4000,
+    "ceiling_m": 17000,
+    "engine_count": 2,
+    "engine_type": "Saturn AL-31FM1 afterburning turbofan",
+    "thrust_kn_total": 274,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1990,
+    "introduced": 2014,
+    "number_built": 150,
+    "unit_cost_usd_m": 36
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry",
+    "number_built": "approx. 2023",
+    "unit_cost_usd_m": "approx.",
+    "drawing": "low-resolution US Air Force recognition drawing"
+  },
+  "drawing": {
+    "title": "Sukhoi Su-34 3-view line drawing.gif",
+    "url": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-34_3-view_line_drawing.gif",
+    "license": "Public domain",
+    "author": "United States Air Force"
+  }
+}

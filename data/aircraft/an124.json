@@ -1,0 +1,42 @@
+{
+  "id": "an124",
+  "name": "Antonov An-124 Ruslan",
+  "manufacturer": "Antonov",
+  "variant": "An-124-100",
+  "category": "transport",
+  "sector": "military",
+  "country": "Soviet Union / Ukraine",
+  "role": "Strategic airlifter",
+  "specs": {
+    "length_m": 68.96,
+    "wingspan_m": 73.3,
+    "height_m": 20.78,
+    "wing_area_m2": 628,
+    "empty_weight_kg": 175000,
+    "mtow_kg": 402000,
+    "max_speed_kmh": 865,
+    "cruise_speed_kmh": 800,
+    "range_km": 5400,
+    "ceiling_m": 12000,
+    "engine_count": 4,
+    "engine_type": "Progress D-18T turbofan",
+    "thrust_kn_total": 917,
+    "crew": 6,
+    "passengers": 88,
+    "first_flight": 1982,
+    "introduced": 1986,
+    "number_built": 55,
+    "unit_cost_usd_m": 100
+  },
+  "notes": {
+    "passengers": "troops on upper deck",
+    "range_km": "with maximum payload (120 t)",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "Antonov An-124 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Antonov_An-124_3-view.svg",
+    "license": "Public domain",
+    "author": "Malyszkz (Wikimedia Commons)"
+  }
+}

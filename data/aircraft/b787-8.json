@@ -1,0 +1,42 @@
+{
+  "id": "b787-8",
+  "name": "Boeing 787-8 Dreamliner",
+  "manufacturer": "Boeing",
+  "variant": "787-8",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 56.72,
+    "wingspan_m": 60.12,
+    "height_m": 16.92,
+    "wing_area_m2": 377,
+    "empty_weight_kg": 119950,
+    "mtow_kg": 227930,
+    "max_speed_kmh": 954,
+    "cruise_speed_kmh": 903,
+    "range_km": 13530,
+    "ceiling_m": 13100,
+    "engine_count": 2,
+    "engine_type": "General Electric GEnx-1B / Rolls-Royce Trent 1000 turbofan",
+    "thrust_kn_total": 560,
+    "crew": 2,
+    "passengers": 248,
+    "first_flight": 2009,
+    "introduced": 2011,
+    "number_built": 400,
+    "unit_cost_usd_m": 248.3
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 359",
+    "unit_cost_usd_m": "2019 list price",
+    "number_built": "approx. 787-8 only; over 1,100 787s of all variants"
+  },
+  "drawing": {
+    "title": "Boeing 787-800 Dreamliner v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_787-800_Dreamliner_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

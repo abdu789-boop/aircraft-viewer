@@ -1,0 +1,42 @@
+{
+  "id": "b757-300",
+  "name": "Boeing 757-300",
+  "manufacturer": "Boeing",
+  "variant": "757-300",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 54.43,
+    "wingspan_m": 38.05,
+    "height_m": 13.56,
+    "wing_area_m2": 185.25,
+    "empty_weight_kg": 64590,
+    "mtow_kg": 123600,
+    "max_speed_kmh": 918,
+    "cruise_speed_kmh": 850,
+    "range_km": 6295,
+    "ceiling_m": 12800,
+    "engine_count": 2,
+    "engine_type": "Rolls-Royce RB211-535E4B / Pratt & Whitney PW2043 turbofan",
+    "thrust_kn_total": 390,
+    "crew": 2,
+    "passengers": 243,
+    "first_flight": 1998,
+    "introduced": 1999,
+    "number_built": 55,
+    "unit_cost_usd_m": 80
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 295",
+    "unit_cost_usd_m": "2002 list price, approx.",
+    "drawing": "front view traced from the 757-200 in the same drawing"
+  },
+  "drawing": {
+    "title": "Boeing 757 family v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_757_family_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

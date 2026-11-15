@@ -1,0 +1,45 @@
+{
+  "id": "mv22",
+  "name": "Bell Boeing V-22 Osprey",
+  "manufacturer": "Bell / Boeing",
+  "variant": "MV-22B",
+  "category": "transport",
+  "sector": "military",
+  "country": "United States",
+  "role": "Tiltrotor transport",
+  "specs": {
+    "length_m": 17.48,
+    "wingspan_m": 25.78,
+    "height_m": 6.73,
+    "wing_area_m2": 28.0,
+    "empty_weight_kg": 15032,
+    "mtow_kg": 27400,
+    "max_speed_kmh": 565,
+    "cruise_speed_kmh": 446,
+    "range_km": 1627,
+    "ceiling_m": 7620,
+    "engine_count": 2,
+    "engine_type": "Rolls-Royce T406 (AE 1107C) turboshaft, 4,590 kW each",
+    "power_kw_total": 9180,
+    "crew": 4,
+    "passengers": 24,
+    "first_flight": 1989,
+    "introduced": 2007,
+    "number_built": 400,
+    "unit_cost_usd_m": 72
+  },
+  "notes": {
+    "wingspan_m": "rotors turning (wing 14.0 m)",
+    "height_m": "nacelles vertical, as drawn",
+    "passengers": "troops; 32 with seats removed",
+    "range_km": "combat range",
+    "number_built": "approx. 2023",
+    "unit_cost_usd_m": "FY2015 flyaway"
+  },
+  "drawing": {
+    "title": "Bell Boeing MV-22 Osprey line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Bell_Boeing_MV-22_Osprey_line_drawing.svg",
+    "license": "CC BY 3.0",
+    "author": "Jetijones (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "amx",
+  "name": "AMX International AMX",
+  "manufacturer": "AMX International (Aeritalia / Aermacchi / Embraer)",
+  "variant": "AMX",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Italy / Brazil",
+  "role": "Light ground-attack aircraft",
+  "specs": {
+    "length_m": 13.23,
+    "wingspan_m": 8.87,
+    "height_m": 4.55,
+    "wing_area_m2": 21.0,
+    "empty_weight_kg": 6700,
+    "mtow_kg": 13000,
+    "max_speed_kmh": 1047,
+    "cruise_speed_kmh": 900,
+    "range_km": 3300,
+    "ceiling_m": 13000,
+    "engine_count": 1,
+    "engine_type": "Rolls-Royce Spey 807 turbofan",
+    "thrust_kn_total": 49,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1984,
+    "introduced": 1989,
+    "number_built": 200,
+    "unit_cost_usd_m": 15
+  },
+  "notes": {
+    "range_km": "ferry",
+    "number_built": "approx.",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "AMX International AMX 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:AMX_International_AMX_3-view_line_drawing.png",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 via Wikimedia Commons (airdefense.bliss.army.mil)",
+    "gear": "up"
+  }
+}

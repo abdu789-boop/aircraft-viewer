@@ -1,0 +1,43 @@
+{
+  "id": "mirage2000",
+  "name": "Dassault Mirage 2000",
+  "manufacturer": "Dassault Aviation",
+  "variant": "Mirage 2000C",
+  "category": "fighter",
+  "sector": "military",
+  "country": "France",
+  "role": "Multirole fighter",
+  "specs": {
+    "length_m": 14.36,
+    "wingspan_m": 9.13,
+    "height_m": 5.2,
+    "wing_area_m2": 41.0,
+    "empty_weight_kg": 7500,
+    "mtow_kg": 17000,
+    "max_speed_kmh": 2336,
+    "cruise_speed_kmh": 1000,
+    "range_km": 1550,
+    "ceiling_m": 17060,
+    "engine_count": 1,
+    "engine_type": "Snecma M53-P2 afterburning turbofan",
+    "thrust_kn_total": 95,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1978,
+    "introduced": 1984,
+    "number_built": 601,
+    "unit_cost_usd_m": 30
+  },
+  "notes": {
+    "range_km": "with drop tanks",
+    "unit_cost_usd_m": "approx.",
+    "cruise_speed_kmh": "estimate"
+  },
+  "drawing": {
+    "title": "Dassault Mirage 2000C 3-view line drawing.gif",
+    "url": "https://commons.wikimedia.org/wiki/File:Dassault_Mirage_2000C_3-view_line_drawing.gif",
+    "license": "CC BY-SA 3.0",
+    "author": "Henrickson (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

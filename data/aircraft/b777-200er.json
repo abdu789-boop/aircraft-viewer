@@ -1,0 +1,42 @@
+{
+  "id": "b777-200er",
+  "name": "Boeing 777-200ER",
+  "manufacturer": "Boeing",
+  "variant": "777-200ER",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 63.73,
+    "wingspan_m": 60.93,
+    "height_m": 18.5,
+    "wing_area_m2": 427.8,
+    "empty_weight_kg": 138100,
+    "mtow_kg": 297550,
+    "max_speed_kmh": 950,
+    "cruise_speed_kmh": 905,
+    "range_km": 14310,
+    "ceiling_m": 13140,
+    "engine_count": 2,
+    "engine_type": "GE90-94B / PW4090 / Trent 895 turbofan",
+    "thrust_kn_total": 830,
+    "crew": 2,
+    "passengers": 301,
+    "first_flight": 1996,
+    "introduced": 1997,
+    "number_built": 422,
+    "unit_cost_usd_m": 306.6
+  },
+  "notes": {
+    "passengers": "typical 3-class; maximum 440",
+    "unit_cost_usd_m": "2019 list price",
+    "first_flight": "777-200ER; 777-200 flew 1994"
+  },
+  "drawing": {
+    "title": "Boeing 777 family v1.1.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_777_family_v1.1.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

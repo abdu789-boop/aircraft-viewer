@@ -1,0 +1,44 @@
+{
+  "id": "j10",
+  "name": "Chengdu J-10 Firebird",
+  "manufacturer": "Chengdu Aircraft Corporation",
+  "variant": "J-10A",
+  "category": "fighter",
+  "sector": "military",
+  "country": "China",
+  "role": "Multirole fighter",
+  "specs": {
+    "length_m": 15.49,
+    "wingspan_m": 9.75,
+    "height_m": 5.43,
+    "wing_area_m2": 37.0,
+    "empty_weight_kg": 9750,
+    "mtow_kg": 19277,
+    "max_speed_kmh": 2327,
+    "cruise_speed_kmh": 1100,
+    "range_km": 3200,
+    "ceiling_m": 18000,
+    "engine_count": 1,
+    "engine_type": "Saturn-Lyulka AL-31FN afterburning turbofan",
+    "thrust_kn_total": 123,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1998,
+    "introduced": 2005,
+    "number_built": 600,
+    "unit_cost_usd_m": 28
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry with external tanks, estimate",
+    "number_built": "all variants, estimate",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "Chengdu J-10.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Chengdu_J-10.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

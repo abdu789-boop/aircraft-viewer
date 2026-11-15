@@ -1,0 +1,45 @@
+{
+  "id": "mi8",
+  "name": "Mil Mi-8 Hip",
+  "manufacturer": "Mil",
+  "variant": "Mi-8T",
+  "category": "helicopter",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Transport helicopter",
+  "specs": {
+    "length_m": 25.24,
+    "wingspan_m": 21.29,
+    "height_m": 5.65,
+    "wing_area_m2": 356,
+    "empty_weight_kg": 7260,
+    "mtow_kg": 12000,
+    "max_speed_kmh": 260,
+    "cruise_speed_kmh": 225,
+    "range_km": 450,
+    "ceiling_m": 4500,
+    "engine_count": 2,
+    "engine_type": "Klimov TV2-117A turboshaft, 1,100 kW each",
+    "power_kw_total": 2200,
+    "crew": 3,
+    "passengers": 24,
+    "first_flight": 1961,
+    "introduced": 1967,
+    "number_built": 17000,
+    "unit_cost_usd_m": 10
+  },
+  "notes": {
+    "length_m": "with rotors turning; fuselage 18.17 m",
+    "wingspan_m": "main rotor diameter",
+    "wing_area_m2": "main rotor disc area",
+    "passengers": "troops",
+    "number_built": "incl. Mi-17, approx.; most-produced helicopter",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "Mil Mi-8 HIP.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Mil_Mi-8_HIP.png",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 via Wikimedia Commons (airdefense.bliss.army.mil)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b757-200",
+  "name": "Boeing 757-200",
+  "manufacturer": "Boeing",
+  "variant": "757-200",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 47.32,
+    "wingspan_m": 38.05,
+    "height_m": 13.56,
+    "wing_area_m2": 185.25,
+    "empty_weight_kg": 58440,
+    "mtow_kg": 115680,
+    "max_speed_kmh": 918,
+    "cruise_speed_kmh": 850,
+    "range_km": 7250,
+    "ceiling_m": 12800,
+    "engine_count": 2,
+    "engine_type": "Rolls-Royce RB211-535E4 / Pratt & Whitney PW2040 turbofan",
+    "thrust_kn_total": 380,
+    "crew": 2,
+    "passengers": 200,
+    "first_flight": 1982,
+    "introduced": 1983,
+    "number_built": 913,
+    "unit_cost_usd_m": 80
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 239",
+    "unit_cost_usd_m": "2002 list price, approx.",
+    "wingspan_m": "without winglets, as drawn"
+  },
+  "drawing": {
+    "title": "Boeing 757 family v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_757_family_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

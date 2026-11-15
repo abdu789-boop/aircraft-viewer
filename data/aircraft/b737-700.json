@@ -1,0 +1,43 @@
+{
+  "id": "b737-700",
+  "name": "Boeing 737-700",
+  "manufacturer": "Boeing",
+  "variant": "737-700",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 33.63,
+    "wingspan_m": 35.79,
+    "height_m": 12.55,
+    "wing_area_m2": 124.6,
+    "empty_weight_kg": 38147,
+    "mtow_kg": 70080,
+    "max_speed_kmh": 876,
+    "cruise_speed_kmh": 842,
+    "range_km": 6230,
+    "ceiling_m": 12500,
+    "engine_count": 2,
+    "engine_type": "CFM International CFM56-7B24 turbofan",
+    "thrust_kn_total": 214,
+    "crew": 2,
+    "passengers": 126,
+    "first_flight": 1997,
+    "introduced": 1998,
+    "number_built": 1128,
+    "unit_cost_usd_m": 89.1
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 149",
+    "unit_cost_usd_m": "2018 list price",
+    "wingspan_m": "with blended winglets as drawn",
+    "number_built": "737-700 incl. BBJ, approx."
+  },
+  "drawing": {
+    "title": "Boeing 737 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_737_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b29",
+  "name": "Boeing B-29 Superfortress",
+  "manufacturer": "Boeing",
+  "variant": "B-29",
+  "category": "bomber",
+  "sector": "military",
+  "country": "United States",
+  "role": "WWII heavy bomber",
+  "specs": {
+    "length_m": 30.18,
+    "wingspan_m": 43.05,
+    "height_m": 8.46,
+    "wing_area_m2": 161.3,
+    "empty_weight_kg": 33800,
+    "mtow_kg": 60560,
+    "max_speed_kmh": 575,
+    "cruise_speed_kmh": 350,
+    "range_km": 5230,
+    "ceiling_m": 9710,
+    "engine_count": 4,
+    "engine_type": "Wright R-3350-23 Duplex-Cyclone radial, 1,640 kW each",
+    "power_kw_total": 6560,
+    "crew": 11,
+    "passengers": 0,
+    "first_flight": 1942,
+    "introduced": 1944,
+    "number_built": 3970,
+    "unit_cost_usd_m": 0.64
+  },
+  "notes": {
+    "unit_cost_usd_m": "1945 price",
+    "range_km": "combat radius x2, approx."
+  },
+  "drawing": {
+    "title": "Boeing B-29 Superfortress 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_B-29_Superfortress_3-view.svg",
+    "license": "CC0",
+    "author": "MLWatts (Wikimedia Commons)"
+  }
+}

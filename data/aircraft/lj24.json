@@ -1,0 +1,41 @@
+{
+  "id": "lj24",
+  "name": "Learjet 24",
+  "manufacturer": "Learjet",
+  "variant": "Learjet 24D",
+  "category": "business-jet",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Light business jet",
+  "specs": {
+    "length_m": 13.18,
+    "wingspan_m": 10.84,
+    "height_m": 3.73,
+    "wing_area_m2": 21.5,
+    "empty_weight_kg": 3200,
+    "mtow_kg": 6124,
+    "max_speed_kmh": 877,
+    "cruise_speed_kmh": 774,
+    "range_km": 2650,
+    "ceiling_m": 13700,
+    "engine_count": 2,
+    "engine_type": "General Electric CJ610-6 turbojet",
+    "thrust_kn_total": 26,
+    "crew": 2,
+    "passengers": 6,
+    "first_flight": 1966,
+    "introduced": 1966,
+    "number_built": 259,
+    "unit_cost_usd_m": 0.6
+  },
+  "notes": {
+    "unit_cost_usd_m": "1970 price, approx.",
+    "cruise_speed_kmh": "estimate"
+  },
+  "drawing": {
+    "title": "Learjet 24 3-View line art.gif",
+    "url": "https://commons.wikimedia.org/wiki/File:Learjet_24_3-View_line_art.gif",
+    "license": "Public domain",
+    "author": "NASA"
+  }
+}

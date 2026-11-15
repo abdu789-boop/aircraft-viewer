@@ -1,0 +1,45 @@
+{
+  "id": "f104",
+  "name": "Lockheed F-104 Starfighter",
+  "manufacturer": "Lockheed",
+  "variant": "F-104C",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Interceptor",
+  "specs": {
+    "length_m": 16.66,
+    "wingspan_m": 6.63,
+    "height_m": 4.09,
+    "wing_area_m2": 18.22,
+    "empty_weight_kg": 6350,
+    "mtow_kg": 13170,
+    "max_speed_kmh": 2137,
+    "cruise_speed_kmh": 980,
+    "range_km": 2623,
+    "ceiling_m": 15000,
+    "engine_count": 1,
+    "engine_type": "General Electric J79-GE-7A afterburning turbojet",
+    "thrust_kn_total": 70,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1954,
+    "introduced": 1958,
+    "number_built": 2578,
+    "unit_cost_usd_m": 1.4
+  },
+  "notes": {
+    "wingspan_m": "without wingtip tanks",
+    "range_km": "ferry",
+    "unit_cost_usd_m": "1960 price",
+    "number_built": "all variants incl. licence production",
+    "cruise_speed_kmh": "estimate"
+  },
+  "drawing": {
+    "title": "Lockheed F-104C Starfighter.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Lockheed_F-104C_Starfighter.svg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

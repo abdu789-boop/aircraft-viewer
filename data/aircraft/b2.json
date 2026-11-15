@@ -1,0 +1,42 @@
+{
+  "id": "b2",
+  "name": "Northrop Grumman B-2 Spirit",
+  "manufacturer": "Northrop Grumman",
+  "variant": "B-2A",
+  "category": "bomber",
+  "sector": "military",
+  "country": "United States",
+  "role": "Stealth strategic bomber",
+  "specs": {
+    "length_m": 21.0,
+    "wingspan_m": 52.4,
+    "height_m": 5.18,
+    "wing_area_m2": 478,
+    "empty_weight_kg": 71700,
+    "mtow_kg": 170600,
+    "max_speed_kmh": 1010,
+    "cruise_speed_kmh": 900,
+    "range_km": 11100,
+    "ceiling_m": 15200,
+    "engine_count": 4,
+    "engine_type": "General Electric F118-GE-100 turbofan",
+    "thrust_kn_total": 308,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1989,
+    "introduced": 1997,
+    "number_built": 21,
+    "unit_cost_usd_m": 737
+  },
+  "notes": {
+    "unit_cost_usd_m": "1997 dollars, excluding development",
+    "range_km": "unrefuelled, approx.",
+    "drawing": "planform traced from the bottom view of the drawing (cleaner outline; the B-2 is symmetric)"
+  },
+  "drawing": {
+    "title": "NORTHROP B-2-fr.png",
+    "url": "https://commons.wikimedia.org/wiki/File:NORTHROP_B-2-fr.png",
+    "license": "Public domain",
+    "author": "Stahlkocher / M0tty (Wikimedia Commons), from U.S. Army FM 44-80"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "g550",
+  "name": "Gulfstream G550",
+  "manufacturer": "Gulfstream Aerospace",
+  "variant": "G550 (GV-SP)",
+  "category": "business-jet",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Long-range business jet",
+  "specs": {
+    "length_m": 29.39,
+    "wingspan_m": 28.5,
+    "height_m": 7.9,
+    "wing_area_m2": 105.6,
+    "empty_weight_kg": 21900,
+    "mtow_kg": 41277,
+    "max_speed_kmh": 941,
+    "cruise_speed_kmh": 904,
+    "range_km": 12501,
+    "ceiling_m": 15545,
+    "engine_count": 2,
+    "engine_type": "Rolls-Royce BR710 C4-11 turbofan",
+    "thrust_kn_total": 137,
+    "crew": 2,
+    "passengers": 19,
+    "first_flight": 2002,
+    "introduced": 2003,
+    "number_built": 620,
+    "unit_cost_usd_m": 61.5
+  },
+  "notes": {
+    "passengers": "maximum; typical 14",
+    "unit_cost_usd_m": "2018 list price",
+    "number_built": "approx., as of 2021",
+    "drawing": "drawing shows the GV-SP-based Gulfstream G500 (2003), externally identical to the G550"
+  },
+  "drawing": {
+    "title": "Gulfstream G500 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Gulfstream_G500_3-view_line_drawing.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)"
+  }
+}

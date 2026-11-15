@@ -1,0 +1,45 @@
+{
+  "id": "f15c",
+  "name": "McDonnell Douglas F-15 Eagle",
+  "manufacturer": "McDonnell Douglas",
+  "variant": "F-15C",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Air superiority fighter",
+  "specs": {
+    "length_m": 19.43,
+    "wingspan_m": 13.05,
+    "height_m": 5.63,
+    "wing_area_m2": 56.5,
+    "empty_weight_kg": 12700,
+    "mtow_kg": 30845,
+    "max_speed_kmh": 2655,
+    "cruise_speed_kmh": 917,
+    "range_km": 5550,
+    "ceiling_m": 20000,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney F100-PW-220 afterburning turbofan",
+    "thrust_kn_total": 211,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1972,
+    "introduced": 1976,
+    "number_built": 1198,
+    "unit_cost_usd_m": 29.9
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "ferry with conformal tanks",
+    "number_built": "F-15A-D",
+    "unit_cost_usd_m": "FY1998",
+    "drawing": "drawing shows the F-15A, same dimensions"
+  },
+  "drawing": {
+    "title": "McDonnell F-15A DraftSight.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_F-15A_DraftSight.svg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

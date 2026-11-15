@@ -1,0 +1,45 @@
+{
+  "id": "typhoon",
+  "name": "Eurofighter Typhoon",
+  "manufacturer": "Eurofighter GmbH",
+  "variant": "Typhoon (single-seat)",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Germany / UK / Italy / Spain",
+  "role": "Multirole fighter",
+  "specs": {
+    "length_m": 15.96,
+    "wingspan_m": 10.95,
+    "height_m": 5.28,
+    "wing_area_m2": 51.2,
+    "empty_weight_kg": 11000,
+    "mtow_kg": 23500,
+    "max_speed_kmh": 2495,
+    "cruise_speed_kmh": 1530,
+    "range_km": 2900,
+    "ceiling_m": 16764,
+    "engine_count": 2,
+    "engine_type": "Eurojet EJ200 afterburning turbofan",
+    "thrust_kn_total": 180,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1994,
+    "introduced": 2003,
+    "number_built": 600,
+    "unit_cost_usd_m": 124
+  },
+  "notes": {
+    "cruise_speed_kmh": "supercruise approx. Mach 1.25, estimate",
+    "range_km": "ferry",
+    "number_built": "approx. 2024",
+    "unit_cost_usd_m": "approx., 2011 flyaway",
+    "drawing": "drawing shows the aircraft with external stores (drop tanks and missiles), which are part of the silhouette"
+  },
+  "drawing": {
+    "title": "Eurofighter Typhoon line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Eurofighter_Typhoon_line_drawing.svg",
+    "license": "Public domain",
+    "author": "Inductiveload (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

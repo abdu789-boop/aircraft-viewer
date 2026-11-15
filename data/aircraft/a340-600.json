@@ -1,0 +1,42 @@
+{
+  "id": "a340-600",
+  "name": "Airbus A340-600",
+  "manufacturer": "Airbus",
+  "variant": "A340-600",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "European Union",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 75.36,
+    "wingspan_m": 63.45,
+    "height_m": 17.22,
+    "wing_area_m2": 437,
+    "empty_weight_kg": 177000,
+    "mtow_kg": 380000,
+    "max_speed_kmh": 913,
+    "cruise_speed_kmh": 881,
+    "range_km": 14450,
+    "ceiling_m": 12500,
+    "engine_count": 4,
+    "engine_type": "Rolls-Royce Trent 556 turbofan",
+    "thrust_kn_total": 996,
+    "crew": 2,
+    "passengers": 380,
+    "first_flight": 2001,
+    "introduced": 2002,
+    "number_built": 97,
+    "unit_cost_usd_m": 275.4
+  },
+  "notes": {
+    "passengers": "typical 3-class; maximum 475",
+    "unit_cost_usd_m": "2011 list price",
+    "length_m": "longest airliner until the 747-8"
+  },
+  "drawing": {
+    "title": "Airbus A340-600 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Airbus_A340-600_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

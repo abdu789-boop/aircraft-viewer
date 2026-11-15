@@ -1,0 +1,43 @@
+{
+  "id": "c208b",
+  "name": "Cessna 208B Grand Caravan",
+  "manufacturer": "Cessna",
+  "variant": "208B Grand Caravan EX",
+  "category": "general-aviation",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Single-turboprop utility aircraft",
+  "specs": {
+    "length_m": 12.67,
+    "wingspan_m": 15.87,
+    "height_m": 4.71,
+    "wing_area_m2": 25.96,
+    "empty_weight_kg": 2145,
+    "mtow_kg": 3995,
+    "max_speed_kmh": 344,
+    "cruise_speed_kmh": 315,
+    "range_km": 1680,
+    "ceiling_m": 7600,
+    "engine_count": 1,
+    "engine_type": "Pratt & Whitney Canada PT6A-140 turboprop, 650 kW",
+    "power_kw_total": 650,
+    "crew": 1,
+    "passengers": 13,
+    "first_flight": 1982,
+    "introduced": 1985,
+    "number_built": 3000,
+    "unit_cost_usd_m": 2.6
+  },
+  "notes": {
+    "number_built": "all 208 variants, approx.",
+    "unit_cost_usd_m": "2020 list price",
+    "first_flight": "Cessna 208",
+    "drawing": "right-hand column of the drawing (wheeled Grand Caravan)"
+  },
+  "drawing": {
+    "title": "Caravan three views.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Caravan_three_views.png",
+    "license": "CC BY-SA 4.0",
+    "author": "Marc Lacoste (Wikimedia Commons)"
+  }
+}

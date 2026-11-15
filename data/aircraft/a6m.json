@@ -1,0 +1,43 @@
+{
+  "id": "a6m",
+  "name": "Mitsubishi A6M Zero",
+  "manufacturer": "Mitsubishi",
+  "variant": "A6M2 Model 21",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Japan",
+  "role": "WWII carrier fighter",
+  "specs": {
+    "length_m": 9.06,
+    "wingspan_m": 12.0,
+    "height_m": 3.05,
+    "wing_area_m2": 22.44,
+    "empty_weight_kg": 1680,
+    "mtow_kg": 2796,
+    "max_speed_kmh": 533,
+    "cruise_speed_kmh": 333,
+    "range_km": 3105,
+    "ceiling_m": 10000,
+    "engine_count": 1,
+    "engine_type": "Nakajima NK1C Sakae 12 radial, 700 kW",
+    "power_kw_total": 700,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1939,
+    "introduced": 1940,
+    "number_built": 10939,
+    "unit_cost_usd_m": 0.03
+  },
+  "notes": {
+    "range_km": "with drop tank",
+    "unit_cost_usd_m": "estimate",
+    "number_built": "all A6M variants",
+    "height_m": "tail-down on the ground"
+  },
+  "drawing": {
+    "title": "Mitsubishi A6M Zero drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mitsubishi_A6M_Zero_drawing.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)"
+  }
+}

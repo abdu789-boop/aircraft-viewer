@@ -1,0 +1,3312 @@
+{
+ "f16c": {
+  "file": "f16.svg",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.13,
+     0.73,
+     0.83
+    ],
+    "nose": "right"
+   },
+   "side": {
+    "crop": [
+     0.27,
+     0.6,
+     1,
+     1
+    ]
+   },
+   "front": {
+    "crop": [
+     0.53,
+     0,
+     1,
+     0.38
+    ]
+   }
+  }
+ },
+ "b747-400": {
+  "file": "b747.svg",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.8,
+     0.25
+    ],
+    "open": 1
+   },
+   "top": {
+    "crop": [
+     0,
+     0.228,
+     0.8,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.76,
+     0.22,
+     1,
+     1
+    ],
+    "rotate": "ccw"
+   }
+  }
+ },
+ "c172": {
+  "file": "c172.svg",
+  "gap": 30,
+  "views": {
+   "front": {
+    "crop": [
+     0,
+     0,
+     0.58,
+     0.3
+    ]
+   },
+   "side": {
+    "crop": [
+     0.57,
+     0,
+     1,
+     0.3
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.38,
+     0.58,
+     1
+    ],
+    "nose": "down"
+   }
+  }
+ },
+ "su27": {
+  "file": "su27.svg",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.4,
+     1
+    ],
+    "nose": "up"
+   },
+   "front": {
+    "crop": [
+     0.45,
+     0.1,
+     0.88,
+     0.47
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0.42,
+     0.68,
+     1,
+     1
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "a380": {
+  "file": "a380.png",
+  "gap": 40,
+  "open": 3,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.465,
+     0.24
+    ]
+   },
+   "front": {
+    "crop": [
+     0.49,
+     0,
+     1,
+     0.245
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.26,
+     0.465,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b737-800": {
+  "file": "b737-800.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.525,
+     0.26
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.31,
+     0.52,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b777-300er": {
+  "file": "b777family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.58,
+     0,
+     1,
+     0.235
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0,
+     0.26,
+     0.33,
+     0.475
+    ]
+   },
+   "top": {
+    "crop": [
+     0.58,
+     0.25,
+     1,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b787-8": {
+  "file": "b787-8.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.49,
+     0.235
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0,
+     1,
+     0.235
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.26,
+     0.49,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "a320": {
+  "file": "a320.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.265
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.265
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.325,
+     0.5,
+     1
+    ],
+    "nose": "left",
+    "gap": 15
+   }
+  }
+ },
+ "concorde": {
+  "file": "concorde.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.67,
+     0.225
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.7,
+     0,
+     1,
+     0.225
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.55,
+     0.67,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "g550": {
+  "file": "g500.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.8,
+     0.19
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.21,
+     0.78,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.815,
+     0.21,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up",
+    "open": 0
+   }
+  }
+ },
+ "pa28": {
+  "file": "pa28.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0.05,
+     0.72,
+     0.245
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.245,
+     0.72,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.71,
+     0.245,
+     1,
+     1
+    ],
+    "rotate": "ccw"
+   }
+  }
+ },
+ "f22": {
+  "file": "f22.png",
+  "views": {
+   "front": {
+    "crop": [
+     0,
+     0,
+     0.45,
+     0.35
+    ],
+    "gear": "up",
+    "close": 2
+   },
+   "top": {
+    "crop": [
+     0.4,
+     0,
+     1,
+     0.76
+    ],
+    "nose": "left",
+    "mirror": "top"
+   },
+   "side": {
+    "crop": [
+     0,
+     0.6,
+     0.57,
+     1
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "f35a": {
+  "file": "f35a.png",
+  "threshold": 245,
+  "views": {
+   "front": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.25
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0,
+     0.22,
+     0.68,
+     0.5
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0.5,
+     0,
+     1,
+     1
+    ],
+    "nose": "up"
+   }
+  }
+ },
+ "fa18c": {
+  "file": "fa18.png",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.47,
+     0.95
+    ],
+    "nose": "up"
+   },
+   "front": {
+    "crop": [
+     0.44,
+     0.18,
+     1,
+     0.45
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0.38,
+     0.6,
+     1,
+     0.9
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "f15c": {
+  "file": "f15.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0.24,
+     0,
+     1,
+     0.26
+    ],
+    "gear": "up",
+    "nose": "right"
+   },
+   "top": {
+    "crop": [
+     0.24,
+     0.3,
+     1,
+     1
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.3,
+     0.205,
+     1
+    ],
+    "rotate": "cw",
+    "gear": "up"
+   }
+  }
+ },
+ "typhoon": {
+  "file": "typhoon.svg",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.54,
+     0.62
+    ],
+    "nose": "right"
+   },
+   "side": {
+    "crop": [
+     0.45,
+     0.02,
+     1,
+     0.3
+    ],
+    "gear": "up"
+   },
+   "front": {
+    "crop": [
+     0.1,
+     0.6,
+     0.5,
+     0.9
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "rafale": {
+  "file": "rafale.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.75,
+     0.27
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.33,
+     0.75,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.79,
+     0.33,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "mig29": {
+  "file": "mig29.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.8,
+     0.26
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.27,
+     0.8,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.82,
+     0.27,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "su57": {
+  "file": "su57.svg",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.58,
+     0.785
+    ],
+    "nose": "right",
+    "open": 8,
+    "mirror": "top"
+   },
+   "side": {
+    "crop": [
+     0,
+     0.795,
+     0.58,
+     1
+    ],
+    "gear": "up",
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0.58,
+     0.78,
+     1,
+     1
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "b2": {
+  "file": "b2.png",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.0507,
+     0.36,
+     0.3775,
+     0.49
+    ],
+    "threshold": 230,
+    "open": 4,
+    "close": 1
+   },
+   "top": {
+    "crop": [
+     0.35,
+     0.63,
+     1,
+     1
+    ],
+    "nose": "up",
+    "threshold": 200,
+    "open": 2,
+    "close": 4
+   },
+   "front": {
+    "crop": [
+     0.33,
+     0.5,
+     0.972,
+     0.59
+    ],
+    "threshold": 230,
+    "open": 4,
+    "close": 1,
+    "erase": [
+     [
+      0.56,
+      0,
+      1,
+      0.3
+     ]
+    ]
+   }
+  }
+ },
+ "b52h": {
+  "file": "b52h.png",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.27,
+     0,
+     1,
+     0.2
+    ],
+    "nose": "right"
+   },
+   "top": {
+    "crop": [
+     0.27,
+     0.21,
+     1,
+     1
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.21,
+     0.19,
+     1
+    ],
+    "rotate": "cw",
+    "gear": "up"
+   }
+  }
+ },
+ "b1b": {
+  "file": "b1b.png",
+  "gap": 30,
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.13,
+     0.45,
+     0.78
+    ],
+    "nose": "up",
+    "open": 9,
+    "close": 2,
+    "gap": 3
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0.12,
+     0.92,
+     0.3
+    ]
+   },
+   "side": {
+    "crop": [
+     0.5,
+     0.65,
+     0.95,
+     0.82
+    ]
+   }
+  }
+ },
+ "tu160": {
+  "file": "tu160b.svg",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.03,
+     0.47,
+     0.85
+    ],
+    "nose": "up",
+    "close": 25,
+    "open": 6
+   },
+   "front": {
+    "crop": [
+     0.48,
+     0.07,
+     0.95,
+     0.3
+    ]
+   },
+   "side": {
+    "crop": [
+     0.44,
+     0.55,
+     1,
+     0.78
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "c130j": {
+  "file": "c130j.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0.02,
+     0.72,
+     0.25
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.26,
+     0.72,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.7,
+     0.26,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "open": 1,
+    "close": 2
+   }
+  }
+ },
+ "c17": {
+  "file": "c17.png",
+  "gap": 20,
+  "views": {
+   "top": {
+    "crop": [
+     0.14,
+     0.07,
+     0.88,
+     0.58
+    ],
+    "nose": "left",
+    "open": 6
+   },
+   "side": {
+    "crop": [
+     0.14,
+     0.47,
+     0.88,
+     0.655
+    ],
+    "open": 4
+   },
+   "front": {
+    "crop": [
+     0.17,
+     0.79,
+     0.87,
+     0.95
+    ],
+    "open": 4
+   }
+  }
+ },
+ "sr71": {
+  "file": "sr71.svg",
+  "views": {
+   "top": {
+    "crop": [
+     0.15,
+     0,
+     1,
+     0.56
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.47,
+     0.65,
+     0.68
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0.15,
+     0.78,
+     1,
+     0.955
+    ],
+    "gear": "up",
+    "open": 4
+   }
+  }
+ },
+ "uh60": {
+  "file": "uh60.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0.05,
+     0.8,
+     0.39
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.4,
+     0.76,
+     1
+    ],
+    "nose": "left",
+    "scale_from": "side",
+    "close": 3
+   },
+   "front": {
+    "crop": [
+     0.76,
+     0.4,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "scale_from": "side"
+   }
+  }
+ },
+ "ah64": {
+  "file": "ah64.png",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.42,
+     0.5,
+     1,
+     0.85
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.1,
+     0.45,
+     0.95
+    ],
+    "nose": "up",
+    "scale_from": "side"
+   },
+   "front": {
+    "crop": [
+     0.45,
+     0.1,
+     0.85,
+     0.45
+    ],
+    "scale_from": "side"
+   }
+  }
+ },
+ "ch47": {
+  "file": "ch47.svg",
+  "gap": 30,
+  "views": {
+   "front": {
+    "crop": [
+     0.4,
+     0.1,
+     1,
+     0.45
+    ]
+   },
+   "side": {
+    "crop": [
+     0.3,
+     0.58,
+     1,
+     0.88
+    ],
+    "scale_from": "front"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.05,
+     0.35,
+     0.9
+    ],
+    "nose": "up",
+    "scale_from": "front"
+   }
+  }
+ },
+ "a330-300": {
+  "file": "a330.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.52,
+     0.26
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.53,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.52,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "a340-600": {
+  "file": "a340-600.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.53,
+     0.235
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.54,
+     0,
+     1,
+     0.235
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.28,
+     0.54,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b757-200": {
+  "file": "b757family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.25,
+     0,
+     0.99,
+     0.122
+    ],
+    "open": 3,
+    "gap": 40
+   },
+   "front": {
+    "crop": [
+     0,
+     0.32,
+     0.6,
+     0.45
+    ],
+    "ground_thick": 16,
+    "ground_frac": 0.15
+   },
+   "top": {
+    "crop": [
+     0.25,
+     0.14,
+     0.97,
+     0.46
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b767-300": {
+  "file": "b767family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.2,
+     0.322,
+     1,
+     0.413
+    ],
+    "open": 3,
+    "gap": 40
+   },
+   "front": {
+    "crop": [
+     0,
+     0.27,
+     0.55,
+     0.356
+    ],
+    "gap": 15,
+    "ground_thick": 16,
+    "ground_frac": 0.15
+   },
+   "top": {
+    "crop": [
+     0.2,
+     0.414,
+     1,
+     0.665
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b707-320": {
+  "file": "b707.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.23
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.52,
+     0,
+     1,
+     0.23
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.26,
+     0.5,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b727-200": {
+  "file": "b727family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.215
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "top": {
+    "crop": [
+     0,
+     0.25,
+     0.5,
+     0.85
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.75,
+     0.3,
+     0.94
+    ],
+    "mirror": "left"
+   }
+  }
+ },
+ "md11": {
+  "file": "md11.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.53,
+     0.245
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.245
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.28,
+     0.55,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "dc10-30": {
+  "file": "dc10.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.52,
+     0.26
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.53,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.29,
+     0.52,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "atr72": {
+  "file": "atrfamily.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.52,
+     0.22
+    ],
+    "open": 1,
+    "gap": 15,
+    "ground_thick": 18,
+    "ground_frac": 0.25
+   },
+   "top": {
+    "crop": [
+     0,
+     0.23,
+     0.52,
+     0.8
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.81,
+     0.48,
+     0.98
+    ],
+    "ground_thick": 8
+   }
+  }
+ },
+ "dc3": {
+  "file": "dc3.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.1,
+     0,
+     1,
+     0.25
+    ]
+   },
+   "front": {
+    "crop": [
+     0,
+     0.22,
+     1,
+     0.43
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.47,
+     1,
+     1
+    ],
+    "nose": "up"
+   }
+  }
+ },
+ "an124": {
+  "file": "an124.svg",
+  "gap": 30,
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.6,
+     1
+    ],
+    "nose": "up"
+   },
+   "front": {
+    "crop": [
+     0.38,
+     0,
+     1,
+     0.35
+    ]
+   },
+   "side": {
+    "crop": [
+     0.42,
+     0.6,
+     1,
+     0.95
+    ]
+   }
+  },
+  "ground_thick": 16,
+  "ground_frac": 0.03
+ },
+ "an225": {
+  "file": "an225.svg",
+  "gap": 30,
+  "views": {
+   "front": {
+    "crop": [
+     0,
+     0.05,
+     1,
+     0.19
+    ],
+    "threshold": 230
+   },
+   "top": {
+    "crop": [
+     0,
+     0.19,
+     1,
+     0.67
+    ],
+    "nose": "up",
+    "threshold": 230
+   },
+   "side": {
+    "crop": [
+     0,
+     0.86,
+     1,
+     1
+    ],
+    "threshold": 230
+   }
+  }
+ },
+ "lj24": {
+  "file": "lj24.gif",
+  "gap": 30,
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.05,
+     0.58,
+     0.95
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0.45,
+     0,
+     1,
+     0.3
+    ]
+   },
+   "side": {
+    "crop": [
+     0.42,
+     0.6,
+     1,
+     0.9275
+    ],
+    "ground": false,
+    "seal": "bottom"
+   }
+  }
+ },
+ "kingair-b200": {
+  "file": "kingair.gif",
+  "gap": 30,
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     1
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0.4,
+     0,
+     1,
+     0.4
+    ]
+   },
+   "side": {
+    "crop": [
+     0.42,
+     0.62,
+     0.95,
+     0.98
+    ]
+   }
+  }
+ },
+ "p51d": {
+  "file": "mustang3.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.72,
+     0.27
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.27,
+     0.72,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.76,
+     0.27,
+     1,
+     1
+    ],
+    "rotate": "ccw"
+   }
+  }
+ },
+ "b17g": {
+  "file": "b17g.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.75,
+     0.25
+    ],
+    "threshold": 60
+   },
+   "top": {
+    "crop": [
+     0,
+     0.25,
+     0.75,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.75,
+     0.25,
+     1,
+     1
+    ],
+    "rotate": "ccw"
+   }
+  }
+ },
+ "b29": {
+  "file": "b29.svg",
+  "gap": 30,
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.62,
+     1
+    ],
+    "nose": "left",
+    "mirror": "top"
+   },
+   "side": {
+    "crop": [
+     0.35,
+     0.05,
+     1,
+     0.35
+    ],
+    "threshold": 60
+   },
+   "front": {
+    "crop": [
+     0.15,
+     0.7,
+     1,
+     0.95
+    ],
+    "gap": 10,
+    "mirror": "right"
+   }
+  }
+ },
+ "lancaster": {
+  "file": "lancaster.png",
+  "gap": 30,
+  "views": {
+   "front": {
+    "crop": [
+     0.1,
+     0,
+     0.75,
+     0.2
+    ]
+   },
+   "side": {
+    "crop": [
+     0.48,
+     0.2,
+     1,
+     0.4
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.1,
+     0.47,
+     1
+    ],
+    "angle": -30.3,
+    "nose": "right"
+   }
+  }
+ },
+ "a6m": {
+  "file": "a6m.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.23
+    ],
+    "threshold": 60
+   },
+   "top": {
+    "crop": [
+     0,
+     0.23,
+     0.75,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.75,
+     0.23,
+     1,
+     1
+    ],
+    "rotate": "ccw"
+   }
+  }
+ },
+ "f4e": {
+  "file": "f4e.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.3
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.78,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.76,
+     0.3,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "mig21": {
+  "file": "mig21.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.8,
+     0.33
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.33,
+     0.8,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.82,
+     0.33,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "a10": {
+  "file": "a10.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0.2,
+     0,
+     1,
+     0.22
+    ],
+    "nose": "right",
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0.25,
+     0.22,
+     1,
+     1
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.22,
+     0.22,
+     1
+    ],
+    "rotate": "cw",
+    "gear": "up"
+   }
+  }
+ },
+ "f14": {
+  "file": "f14.png",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.05,
+     0.52,
+     0.82
+    ],
+    "nose": "up",
+    "open": 8,
+    "mirror": "top"
+   },
+   "front": {
+    "crop": [
+     0.45,
+     0.15,
+     0.9,
+     0.35
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0.48,
+     0.55,
+     0.95,
+     0.78
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "av8b": {
+  "file": "av8b.png",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.02,
+     0.4,
+     0.95
+    ],
+    "nose": "up"
+   },
+   "front": {
+    "crop": [
+     0.48,
+     0.2,
+     0.85,
+     0.45
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0.35,
+     0.62,
+     1,
+     0.92
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "tu95": {
+  "file": "tu95.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0.2,
+     0,
+     1,
+     0.27
+    ],
+    "nose": "right",
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0.22,
+     0.27,
+     1,
+     1
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.27,
+     0.22,
+     1
+    ],
+    "rotate": "cw",
+    "gear": "up"
+   }
+  }
+ },
+ "mirage2000": {
+  "file": "mirage2000.gif",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.25,
+     0.65,
+     0.8
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0.45,
+     0.08,
+     0.9,
+     0.42
+    ],
+    "threshold": 235,
+    "open": 3,
+    "ground_thick": 14,
+    "ground_frac": 0.15
+   },
+   "side": {
+    "crop": [
+     0.35,
+     0.57,
+     1,
+     0.92
+    ],
+    "threshold": 235,
+    "open": 3,
+    "ground_thick": 14,
+    "ground_frac": 0.15
+   }
+  }
+ },
+ "gripen": {
+  "file": "gripen.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0.2,
+     0,
+     1,
+     0.3
+    ],
+    "nose": "right",
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0.25,
+     0.3,
+     1,
+     1
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.3,
+     0.25,
+     1
+    ],
+    "rotate": "cw",
+    "gear": "up"
+   }
+  }
+ },
+ "f104": {
+  "file": "f104.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.8,
+     0.3
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.38,
+     0.8,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.8,
+     0.38,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "su25": {
+  "file": "su25.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0.25,
+     0,
+     1,
+     0.27
+    ],
+    "nose": "right",
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0.28,
+     0.27,
+     1,
+     1
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.27,
+     0.3,
+     1
+    ],
+    "rotate": "cw",
+    "gear": "up"
+   }
+  }
+ },
+ "mi24": {
+  "file": "mi24.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.42,
+     0.6,
+     1,
+     0.95
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.47,
+     1
+    ],
+    "nose": "up",
+    "scale_from": "side"
+   },
+   "front": {
+    "crop": [
+     0.48,
+     0.15,
+     1,
+     0.48
+    ],
+    "scale_from": "side"
+   }
+  }
+ },
+ "mi8": {
+  "file": "mi8.png",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.48,
+     0.55,
+     1,
+     0.85
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.05,
+     0.55,
+     0.85
+    ],
+    "nose": "up",
+    "scale_from": "side"
+   },
+   "front": {
+    "crop": [
+     0.47,
+     0.1,
+     1,
+     0.45
+    ],
+    "scale_from": "side"
+   }
+  }
+ },
+ "uh1h": {
+  "file": "uh1.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.3,
+     0.6,
+     1,
+     0.95
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.3,
+     0.95
+    ],
+    "nose": "up",
+    "scale_from": "side",
+    "close": 5
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0.13,
+     0.72,
+     0.45
+    ],
+    "scale_from": "side"
+   }
+  }
+ },
+ "bonanza": {
+  "file": "bonanza.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.75,
+     0.25
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.25,
+     0.75,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.75,
+     0.25,
+     1,
+     1
+    ],
+    "rotate": "ccw"
+   }
+  }
+ },
+ "c208b": {
+  "file": "caravan.png",
+  "gap": 30,
+  "views": {
+   "top": {
+    "crop": [
+     0.5,
+     0,
+     1,
+     0.42
+    ],
+    "nose": "up"
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0.43,
+     1,
+     0.62
+    ]
+   },
+   "side": {
+    "crop": [
+     0.5,
+     0.82,
+     1,
+     1
+    ]
+   }
+  }
+ },
+ "mv22": {
+  "file": "mv22.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0.55,
+     0.05,
+     1,
+     0.22
+    ]
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0.3,
+     1,
+     0.5
+    ]
+   },
+   "top": {
+    "crop": [
+     0.5,
+     0.5,
+     1,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b737-200": {
+  "file": "b737-200.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.285
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.54,
+     0,
+     1,
+     0.285
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.32,
+     0.5,
+     0.96
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b737-300": {
+  "file": "b737-300.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.53,
+     0.27
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.27
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.33,
+     0.53,
+     0.96
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b737-700": {
+  "file": "b737-700.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.48,
+     0.255
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0,
+     1,
+     0.255
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.31,
+     0.49,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b737-900er": {
+  "file": "b737-900.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0.02,
+     0.53,
+     0.262
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0.02,
+     1,
+     0.28
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.31,
+     0.53,
+     0.97
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b717": {
+  "file": "b717.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.56,
+     0.245
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.57,
+     0,
+     1,
+     0.245
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.57,
+     0.98
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "md82": {
+  "file": "md82.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0.8,
+     0.55,
+     0.92
+    ],
+    "open": 1,
+    "gap": 15,
+    "ground": false
+   },
+   "front": {
+    "crop": [
+     0.62,
+     0.64,
+     0.98,
+     0.75
+    ],
+    "gap": 5,
+    "open": 3
+   },
+   "top": {
+    "crop": [
+     0.6,
+     0.0,
+     0.985,
+     0.6
+    ],
+    "nose": "down",
+    "close": 4
+   }
+  }
+ },
+ "b727-100": {
+  "file": "b727family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.5,
+     0,
+     1,
+     0.215
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "top": {
+    "crop": [
+     0.5,
+     0.25,
+     1,
+     0.85
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0,
+     0.75,
+     0.3,
+     0.94
+    ],
+    "mirror": "left"
+   }
+  }
+ },
+ "b757-300": {
+  "file": "b757family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.15,
+     0.525,
+     0.97,
+     0.648
+    ],
+    "open": 3,
+    "gap": 40
+   },
+   "front": {
+    "crop": [
+     0,
+     0.32,
+     0.6,
+     0.45
+    ],
+    "ground_thick": 16,
+    "ground_frac": 0.15
+   },
+   "top": {
+    "crop": [
+     0.15,
+     0.665,
+     0.97,
+     0.985
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b767-200": {
+  "file": "b767family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.28,
+     0.01,
+     0.97,
+     0.102
+    ],
+    "open": 3,
+    "gap": 40
+   },
+   "front": {
+    "crop": [
+     0,
+     0.27,
+     0.55,
+     0.356
+    ],
+    "gap": 15,
+    "ground_thick": 16,
+    "ground_frac": 0.15
+   },
+   "top": {
+    "crop": [
+     0.28,
+     0.105,
+     0.97,
+     0.332
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b767-400": {
+  "file": "b767family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.13,
+     0.634,
+     0.97,
+     0.731
+    ],
+    "open": 3,
+    "gap": 40
+   },
+   "front": {
+    "crop": [
+     0,
+     0.27,
+     0.55,
+     0.356
+    ],
+    "gap": 15,
+    "ground_thick": 16,
+    "ground_frac": 0.15
+   },
+   "top": {
+    "crop": [
+     0.13,
+     0.728,
+     0.97,
+     0.99
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b777-200er": {
+  "file": "b777family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.18,
+     0,
+     0.55,
+     0.235
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0,
+     0.26,
+     0.33,
+     0.475
+    ]
+   },
+   "top": {
+    "crop": [
+     0.18,
+     0.25,
+     0.55,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b747-100": {
+  "file": "b747family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.12,
+     0.485,
+     0.97,
+     0.598
+    ],
+    "open": 1,
+    "gap": 15,
+    "ground_thick": 14
+   },
+   "front": {
+    "crop": [
+     0.3,
+     0.255,
+     0.7,
+     0.391
+    ],
+    "mirror": "right",
+    "gap": 15
+   },
+   "top": {
+    "crop": [
+     0.13,
+     0,
+     0.97,
+     0.2
+    ],
+    "nose": "left",
+    "mirror": "top"
+   }
+  }
+ },
+ "b747-8i": {
+  "file": "b747family.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0.06,
+     0.742,
+     0.97,
+     0.853
+    ],
+    "open": 1,
+    "gap": 15,
+    "ground_thick": 14,
+    "ground_frac": 0.06
+   },
+   "front": {
+    "crop": [
+     0.3,
+     0.255,
+     0.7,
+     0.391
+    ],
+    "mirror": "right",
+    "gap": 15
+   },
+   "top": {
+    "crop": [
+     0.13,
+     0,
+     0.97,
+     0.2
+    ],
+    "nose": "left",
+    "mirror": "top"
+   }
+  }
+ },
+ "b247": {
+  "file": "b247.svg",
+  "gap": 30,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.78,
+     0.22
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.21,
+     0.78,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.75,
+     0.21,
+     1,
+     1
+    ],
+    "rotate": "ccw"
+   }
+  }
+ },
+ "a300-600": {
+  "file": "a300.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.275
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.275
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.33,
+     0.5,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "a310-300": {
+  "file": "a310.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.47,
+     0.265
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.265
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.33,
+     0.47,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "a318": {
+  "file": "a318.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.47,
+     0.26
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.31,
+     0.47,
+     1
+    ],
+    "nose": "left",
+    "gap": 15,
+    "open": 5
+   }
+  }
+ },
+ "a319": {
+  "file": "a319.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.47,
+     0.26
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.55,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.31,
+     0.47,
+     1
+    ],
+    "nose": "left",
+    "gap": 15,
+    "open": 5
+   }
+  }
+ },
+ "a321": {
+  "file": "a321.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.55,
+     0.26
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.56,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.31,
+     0.55,
+     1
+    ],
+    "nose": "left",
+    "gap": 15,
+    "open": 5
+   }
+  }
+ },
+ "a330-200": {
+  "file": "a330-200.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.25
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.52,
+     0,
+     1,
+     0.25
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.5,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "a340-300": {
+  "file": "a340-300.png",
+  "gap": 40,
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.52,
+     0.25
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.52,
+     0,
+     1,
+     0.25
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.52,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b787-9": {
+  "file": "b787-8.png",
+  "gap": 40,
+  "stretch": {
+   "base_length_m": 56.72,
+   "plugs": [
+    [
+     0.3,
+     3.05
+    ],
+    [
+     0.7,
+     3.04
+    ]
+   ]
+  },
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.49,
+     0.235
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0,
+     1,
+     0.235
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.26,
+     0.49,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "b787-10": {
+  "file": "b787-8.png",
+  "gap": 40,
+  "stretch": {
+   "base_length_m": 56.72,
+   "plugs": [
+    [
+     0.3,
+     6.1
+    ],
+    [
+     0.7,
+     5.46
+    ]
+   ]
+  },
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.49,
+     0.235
+    ],
+    "open": 1,
+    "gap": 15
+   },
+   "front": {
+    "crop": [
+     0.5,
+     0,
+     1,
+     0.235
+    ]
+   },
+   "top": {
+    "crop": [
+     0,
+     0.26,
+     0.49,
+     1
+    ],
+    "nose": "left"
+   }
+  }
+ },
+ "a350-900": {
+  "file": "a330.png",
+  "gap": 40,
+  "stretch": {
+   "base_length_m": 63.67,
+   "plugs": [
+    [
+     0.3,
+     1.6
+    ],
+    [
+     0.7,
+     1.53
+    ]
+   ]
+  },
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.52,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.53,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "side": {
+    "crop": [
+     0.03,
+     0.33,
+     0.97,
+     0.625
+    ],
+    "file": "a350-sides.svg",
+    "nose": "right",
+    "gear": "up",
+    "stretch": null
+   }
+  }
+ },
+ "a350-1000": {
+  "file": "a330.png",
+  "gap": 40,
+  "stretch": {
+   "base_length_m": 63.67,
+   "plugs": [
+    [
+     0.3,
+     5.1
+    ],
+    [
+     0.7,
+     5.02
+    ]
+   ]
+  },
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.52,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.53,
+     0,
+     1,
+     0.26
+    ]
+   },
+   "side": {
+    "crop": [
+     0.0,
+     0.633,
+     1,
+     0.93
+    ],
+    "file": "a350-sides.svg",
+    "nose": "right",
+    "gear": "up",
+    "stretch": null,
+    "seal": "bottom",
+    "ground": false
+   }
+  }
+ },
+ "mig31": {
+  "file": "mig31.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.8,
+     0.3
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.3,
+     0.8,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.8,
+     0.3,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "su30": {
+  "file": "su30.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.78,
+     0.3
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.31,
+     0.78,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.78,
+     0.31,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "su34": {
+  "file": "su34.gif",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.1,
+     0.42,
+     0.9
+    ],
+    "nose": "up",
+    "open": 4,
+    "close": 2
+   },
+   "front": {
+    "crop": [
+     0.45,
+     0.2,
+     1,
+     0.45
+    ],
+    "ground_thick": 14
+   },
+   "side": {
+    "crop": [
+     0.42,
+     0.6,
+     1,
+     0.85
+    ],
+    "ground_thick": 45,
+    "ground_frac": 0.15
+   }
+  }
+ },
+ "tornado": {
+  "file": "tornado.svg",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0,
+     0.5,
+     0.98
+    ],
+    "nose": "up",
+    "open": 3
+   },
+   "front": {
+    "crop": [
+     0.48,
+     0.05,
+     1,
+     0.4
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0.45,
+     0.6,
+     1,
+     0.93
+    ],
+    "gear": "up"
+   }
+  }
+ },
+ "j10": {
+  "file": "j10.svg",
+  "views": {
+   "side": {
+    "crop": [
+     0,
+     0,
+     0.75,
+     0.33
+    ],
+    "gear": "up"
+   },
+   "top": {
+    "crop": [
+     0,
+     0.34,
+     0.75,
+     1
+    ],
+    "nose": "left"
+   },
+   "front": {
+    "crop": [
+     0.75,
+     0.34,
+     1,
+     1
+    ],
+    "rotate": "ccw",
+    "gear": "up"
+   }
+  }
+ },
+ "tejas": {
+  "file": "tejas.png",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.25,
+     0.65,
+     0.95
+    ],
+    "nose": "right"
+   },
+   "front": {
+    "crop": [
+     0.4,
+     0,
+     1,
+     0.56
+    ]
+   },
+   "side": {
+    "crop": [
+     0.3,
+     0.57,
+     1,
+     0.97
+    ]
+   }
+  }
+ },
+ "amx": {
+  "file": "amx.png",
+  "views": {
+   "top": {
+    "crop": [
+     0,
+     0.08,
+     0.45,
+     0.85
+    ],
+    "nose": "up"
+   },
+   "front": {
+    "crop": [
+     0.45,
+     0.18,
+     0.85,
+     0.45
+    ],
+    "gear": "up"
+   },
+   "side": {
+    "crop": [
+     0.42,
+     0.55,
+     1,
+     0.85
+    ],
+    "gear": "up"
+   }
+  }
+ }
+}

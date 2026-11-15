@@ -1,0 +1,43 @@
+{
+  "id": "dc3",
+  "name": "Douglas DC-3",
+  "manufacturer": "Douglas Aircraft",
+  "variant": "DC-3 / C-47",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Piston airliner / transport",
+  "specs": {
+    "length_m": 19.7,
+    "wingspan_m": 29.0,
+    "height_m": 5.16,
+    "wing_area_m2": 91.7,
+    "empty_weight_kg": 7650,
+    "mtow_kg": 11430,
+    "max_speed_kmh": 370,
+    "cruise_speed_kmh": 333,
+    "range_km": 2400,
+    "ceiling_m": 7100,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney R-1830 Twin Wasp radial, 895 kW each",
+    "power_kw_total": 1790,
+    "crew": 3,
+    "passengers": 28,
+    "first_flight": 1935,
+    "introduced": 1936,
+    "number_built": 16079,
+    "unit_cost_usd_m": 0.1
+  },
+  "notes": {
+    "passengers": "typical 21-32",
+    "unit_cost_usd_m": "1930s price, approx.",
+    "number_built": "incl. C-47 and licence-built Li-2 / L2D",
+    "height_m": "tail-down on the ground"
+  },
+  "drawing": {
+    "title": "Douglas DC-3 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Douglas_DC-3_3-view_line_drawing.svg",
+    "license": "CC BY-SA 4.0",
+    "author": "MMK-Draw (Wikimedia Commons)"
+  }
+}

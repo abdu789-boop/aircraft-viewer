@@ -1,0 +1,42 @@
+{
+  "id": "kingair-b200",
+  "name": "Beechcraft King Air B200",
+  "manufacturer": "Beechcraft",
+  "variant": "King Air B200",
+  "category": "business-jet",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Twin-turboprop business aircraft",
+  "specs": {
+    "length_m": 13.34,
+    "wingspan_m": 16.61,
+    "height_m": 4.57,
+    "wing_area_m2": 28.2,
+    "empty_weight_kg": 3520,
+    "mtow_kg": 5670,
+    "max_speed_kmh": 545,
+    "cruise_speed_kmh": 536,
+    "range_km": 3185,
+    "ceiling_m": 10670,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney Canada PT6A-42 turboprop, 634 kW each",
+    "power_kw_total": 1268,
+    "crew": 2,
+    "passengers": 9,
+    "first_flight": 1972,
+    "introduced": 1974,
+    "number_built": 3500,
+    "unit_cost_usd_m": 6
+  },
+  "notes": {
+    "number_built": "approx. all 200-series",
+    "unit_cost_usd_m": "2020 list price (King Air 260)",
+    "first_flight": "King Air 200"
+  },
+  "drawing": {
+    "title": "Beechcraft B200 King Air 3-view line drawing.gif",
+    "url": "https://commons.wikimedia.org/wiki/File:Beechcraft_B200_King_Air_3-view_line_drawing.gif",
+    "license": "Public domain",
+    "author": "NASA"
+  }
+}

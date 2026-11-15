@@ -1,0 +1,44 @@
+{
+  "id": "f14",
+  "name": "Grumman F-14 Tomcat",
+  "manufacturer": "Grumman",
+  "variant": "F-14A",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Carrier-based interceptor / air superiority fighter",
+  "specs": {
+    "length_m": 19.1,
+    "wingspan_m": 19.55,
+    "height_m": 4.88,
+    "wing_area_m2": 54.5,
+    "empty_weight_kg": 19838,
+    "mtow_kg": 33720,
+    "max_speed_kmh": 2485,
+    "cruise_speed_kmh": 1000,
+    "range_km": 2960,
+    "ceiling_m": 15200,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney TF30-P-414A afterburning turbofan",
+    "thrust_kn_total": 186,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1970,
+    "introduced": 1974,
+    "number_built": 712,
+    "unit_cost_usd_m": 38
+  },
+  "notes": {
+    "wingspan_m": "wings unswept as drawn; 11.65 m fully swept",
+    "range_km": "ferry",
+    "unit_cost_usd_m": "1998 flyaway",
+    "cruise_speed_kmh": "estimate"
+  },
+  "drawing": {
+    "title": "Grumman F-14 Tomcat.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Grumman_F-14_Tomcat.png",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 via Wikimedia Commons (airdefense.bliss.army.mil)",
+    "gear": "up"
+  }
+}

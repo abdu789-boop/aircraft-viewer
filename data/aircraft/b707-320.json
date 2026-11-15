@@ -1,0 +1,43 @@
+{
+  "id": "b707-320",
+  "name": "Boeing 707-320B",
+  "manufacturer": "Boeing",
+  "variant": "707-320B",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body jet airliner",
+  "specs": {
+    "length_m": 46.61,
+    "wingspan_m": 44.42,
+    "height_m": 12.93,
+    "wing_area_m2": 283,
+    "empty_weight_kg": 66400,
+    "mtow_kg": 151300,
+    "max_speed_kmh": 1010,
+    "cruise_speed_kmh": 897,
+    "range_km": 9300,
+    "ceiling_m": 12800,
+    "engine_count": 4,
+    "engine_type": "Pratt & Whitney JT3D-3 turbofan",
+    "thrust_kn_total": 320,
+    "crew": 3,
+    "passengers": 147,
+    "first_flight": 1957,
+    "introduced": 1958,
+    "number_built": 865,
+    "unit_cost_usd_m": 10
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 189",
+    "unit_cost_usd_m": "1960s price, approx.",
+    "first_flight": "707-120; 367-80 prototype flew 1954",
+    "number_built": "civil 707s, plus 820 military derivatives"
+  },
+  "drawing": {
+    "title": "Boeing 707-300 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_707-300_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

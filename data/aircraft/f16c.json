@@ -1,0 +1,38 @@
+{
+  "id": "f16c",
+  "name": "F-16C Fighting Falcon",
+  "manufacturer": "General Dynamics / Lockheed Martin",
+  "variant": "Block 50",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Multirole fighter",
+  "specs": {
+    "length_m": 15.06,
+    "wingspan_m": 9.96,
+    "height_m": 4.88,
+    "wing_area_m2": 27.87,
+    "empty_weight_kg": 8570,
+    "mtow_kg": 19200,
+    "max_speed_kmh": 2120,
+    "cruise_speed_kmh": 930,
+    "range_km": 4220,
+    "ceiling_m": 15240,
+    "engine_count": 1,
+    "engine_type": "GE F110-GE-129 turbofan",
+    "thrust_kn_total": 131,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1974,
+    "introduced": 1978,
+    "number_built": 4600,
+    "unit_cost_usd_m": 30
+  },
+  "notes": { "number_built": "approx., all variants", "range_km": "ferry range with drop tanks" },
+  "drawing": {
+    "title": "General Dynamics F-16 Fighting Falcon 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:General_Dynamics_F-16_Fighting_Falcon_3-view_line_drawing.svg",
+    "license": "Public domain",
+    "author": "Wikimedia Commons"
+  }
+}

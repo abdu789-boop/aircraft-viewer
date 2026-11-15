@@ -1,0 +1,44 @@
+{
+  "id": "b777-300er",
+  "name": "Boeing 777-300ER",
+  "manufacturer": "Boeing",
+  "variant": "777-300ER",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 73.86,
+    "wingspan_m": 64.8,
+    "height_m": 18.5,
+    "wing_area_m2": 436.8,
+    "empty_weight_kg": 167800,
+    "mtow_kg": 351500,
+    "max_speed_kmh": 950,
+    "cruise_speed_kmh": 905,
+    "range_km": 13650,
+    "ceiling_m": 13140,
+    "engine_count": 2,
+    "engine_type": "General Electric GE90-115B turbofan",
+    "thrust_kn_total": 1026,
+    "crew": 2,
+    "passengers": 396,
+    "first_flight": 2003,
+    "introduced": 2004,
+    "number_built": 840,
+    "unit_cost_usd_m": 375.5
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 550",
+    "unit_cost_usd_m": "2019 list price",
+    "number_built": "approx., as of 2024",
+    "cruise_speed_kmh": "Mach 0.84 at 35,000 ft",
+    "drawing": "front view traced from the 777-200ER in the same drawing (same wing except raked tips)"
+  },
+  "drawing": {
+    "title": "Boeing 777 family v1.1.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_777_family_v1.1.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

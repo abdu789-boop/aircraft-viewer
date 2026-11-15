@@ -1,0 +1,44 @@
+{
+  "id": "su30",
+  "name": "Sukhoi Su-30 Flanker-C",
+  "manufacturer": "Sukhoi",
+  "variant": "Su-30MKI",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Russia",
+  "role": "Multirole fighter",
+  "specs": {
+    "length_m": 21.94,
+    "wingspan_m": 14.7,
+    "height_m": 6.36,
+    "wing_area_m2": 62.0,
+    "empty_weight_kg": 18400,
+    "mtow_kg": 38800,
+    "max_speed_kmh": 2120,
+    "cruise_speed_kmh": 1100,
+    "range_km": 3000,
+    "ceiling_m": 17300,
+    "engine_count": 2,
+    "engine_type": "Saturn AL-31FP thrust-vectoring afterburning turbofan",
+    "thrust_kn_total": 246,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1989,
+    "introduced": 1996,
+    "number_built": 630,
+    "unit_cost_usd_m": 62
+  },
+  "notes": {
+    "cruise_speed_kmh": "estimate",
+    "range_km": "internal fuel",
+    "number_built": "all Su-30 variants, approx.",
+    "unit_cost_usd_m": "Su-30MKI approx."
+  },
+  "drawing": {
+    "title": "Sukhoi Su-30 3-view line drawing.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Sukhoi_Su-30_3-view_line_drawing.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

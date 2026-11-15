@@ -1,0 +1,43 @@
+{
+  "id": "b737-900er",
+  "name": "Boeing 737-900ER",
+  "manufacturer": "Boeing",
+  "variant": "737-900ER",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 42.11,
+    "wingspan_m": 35.79,
+    "height_m": 12.55,
+    "wing_area_m2": 124.6,
+    "empty_weight_kg": 44676,
+    "mtow_kg": 85130,
+    "max_speed_kmh": 876,
+    "cruise_speed_kmh": 842,
+    "range_km": 5925,
+    "ceiling_m": 12500,
+    "engine_count": 2,
+    "engine_type": "CFM International CFM56-7B27 turbofan",
+    "thrust_kn_total": 242,
+    "crew": 2,
+    "passengers": 180,
+    "first_flight": 2006,
+    "introduced": 2007,
+    "number_built": 505,
+    "unit_cost_usd_m": 112.6
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 220",
+    "unit_cost_usd_m": "2018 list price",
+    "wingspan_m": "with blended winglets as drawn",
+    "drawing": "drawing shows the 737-900, same dimensions as the -900ER"
+  },
+  "drawing": {
+    "title": "Boeing 737-900 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_737-900_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

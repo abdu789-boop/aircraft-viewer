@@ -1,0 +1,44 @@
+{
+  "id": "gripen",
+  "name": "Saab JAS 39 Gripen",
+  "manufacturer": "Saab",
+  "variant": "JAS 39C",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Sweden",
+  "role": "Multirole fighter",
+  "specs": {
+    "length_m": 14.1,
+    "wingspan_m": 8.4,
+    "height_m": 4.5,
+    "wing_area_m2": 30.0,
+    "empty_weight_kg": 6800,
+    "mtow_kg": 14000,
+    "max_speed_kmh": 2204,
+    "cruise_speed_kmh": 1400,
+    "range_km": 3200,
+    "ceiling_m": 15240,
+    "engine_count": 1,
+    "engine_type": "Volvo RM12 afterburning turbofan",
+    "thrust_kn_total": 80,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1988,
+    "introduced": 1996,
+    "number_built": 280,
+    "unit_cost_usd_m": 60
+  },
+  "notes": {
+    "range_km": "ferry",
+    "unit_cost_usd_m": "approx.",
+    "cruise_speed_kmh": "supercruise approx., estimate",
+    "number_built": "approx. 2024"
+  },
+  "drawing": {
+    "title": "Saab JAS 39 Gripen 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Saab_JAS_39_Gripen_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

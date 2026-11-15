@@ -1,0 +1,43 @@
+{
+  "id": "su25",
+  "name": "Sukhoi Su-25 Frogfoot",
+  "manufacturer": "Sukhoi",
+  "variant": "Su-25",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Close air support attack aircraft",
+  "specs": {
+    "length_m": 15.53,
+    "wingspan_m": 14.36,
+    "height_m": 4.8,
+    "wing_area_m2": 30.1,
+    "empty_weight_kg": 9800,
+    "mtow_kg": 19300,
+    "max_speed_kmh": 975,
+    "cruise_speed_kmh": 750,
+    "range_km": 1950,
+    "ceiling_m": 7000,
+    "engine_count": 2,
+    "engine_type": "Soyuz/Tumansky R-195 turbojet",
+    "thrust_kn_total": 88,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1975,
+    "introduced": 1981,
+    "number_built": 1024,
+    "unit_cost_usd_m": 11
+  },
+  "notes": {
+    "range_km": "ferry",
+    "unit_cost_usd_m": "estimate",
+    "cruise_speed_kmh": "estimate"
+  },
+  "drawing": {
+    "title": "Suchoi Su-25.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Suchoi_Su-25.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

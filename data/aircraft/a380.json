@@ -1,0 +1,38 @@
+{
+  "id": "a380",
+  "name": "Airbus A380-800",
+  "manufacturer": "Airbus",
+  "variant": "A380-841",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "European Union",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 72.72,
+    "wingspan_m": 79.75,
+    "height_m": 24.09,
+    "wing_area_m2": 845,
+    "empty_weight_kg": 277000,
+    "mtow_kg": 575000,
+    "max_speed_kmh": 1020,
+    "cruise_speed_kmh": 903,
+    "range_km": 14800,
+    "ceiling_m": 13100,
+    "engine_count": 4,
+    "engine_type": "Rolls-Royce Trent 970 / Engine Alliance GP7270 turbofan",
+    "thrust_kn_total": 1244,
+    "crew": 2,
+    "passengers": 575,
+    "first_flight": 2005,
+    "introduced": 2007,
+    "number_built": 251,
+    "unit_cost_usd_m": 445.6
+  },
+  "notes": { "passengers": "typical 4-class; certified maximum 853", "unit_cost_usd_m": "2018 list price" },
+  "drawing": {
+    "title": "Airbus A380-800 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Airbus_A380-800_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

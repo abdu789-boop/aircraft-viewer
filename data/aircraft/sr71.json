@@ -1,0 +1,42 @@
+{
+  "id": "sr71",
+  "name": "Lockheed SR-71 Blackbird",
+  "manufacturer": "Lockheed",
+  "variant": "SR-71A",
+  "category": "reconnaissance",
+  "sector": "military",
+  "country": "United States",
+  "role": "Strategic reconnaissance aircraft",
+  "specs": {
+    "length_m": 32.74,
+    "wingspan_m": 16.94,
+    "height_m": 5.64,
+    "wing_area_m2": 170,
+    "empty_weight_kg": 30600,
+    "mtow_kg": 78000,
+    "max_speed_kmh": 3540,
+    "cruise_speed_kmh": 3220,
+    "range_km": 5400,
+    "ceiling_m": 25900,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney J58 (JT11D-20B) afterburning turbojet",
+    "thrust_kn_total": 302,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1964,
+    "introduced": 1966,
+    "number_built": 32,
+    "unit_cost_usd_m": 34
+  },
+  "notes": {
+    "unit_cost_usd_m": "1960s dollars, approx.",
+    "max_speed_kmh": "Mach 3.3 at 24,000 m"
+  },
+  "drawing": {
+    "title": "Lockheed SR-71A 3view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Lockheed_SR-71A_3view.svg",
+    "license": "Public domain",
+    "author": "United States Air Force",
+    "gear": "up"
+  }
+}

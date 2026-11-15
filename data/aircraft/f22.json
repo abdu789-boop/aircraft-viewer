@@ -1,0 +1,43 @@
+{
+  "id": "f22",
+  "name": "Lockheed Martin F-22 Raptor",
+  "manufacturer": "Lockheed Martin",
+  "variant": "F-22A",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Stealth air superiority fighter",
+  "specs": {
+    "length_m": 18.92,
+    "wingspan_m": 13.56,
+    "height_m": 5.08,
+    "wing_area_m2": 78.04,
+    "empty_weight_kg": 19700,
+    "mtow_kg": 38000,
+    "max_speed_kmh": 2414,
+    "cruise_speed_kmh": 1963,
+    "range_km": 3000,
+    "ceiling_m": 20000,
+    "engine_count": 2,
+    "engine_type": "Pratt & Whitney F119-PW-100 afterburning turbofan",
+    "thrust_kn_total": 312,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1997,
+    "introduced": 2005,
+    "number_built": 195,
+    "unit_cost_usd_m": 150
+  },
+  "notes": {
+    "cruise_speed_kmh": "supercruise, Mach 1.82",
+    "range_km": "ferry with two external tanks",
+    "unit_cost_usd_m": "flyaway, 2009 approx."
+  },
+  "drawing": {
+    "title": "Lockheed Martin F-22A Raptor 3-view.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_F-22A_Raptor_3-view.png",
+    "license": "CC BY-SA 2.0",
+    "author": "ZakuTalk (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

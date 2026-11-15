@@ -1,0 +1,44 @@
+{
+  "id": "mi24",
+  "name": "Mil Mi-24 Hind",
+  "manufacturer": "Mil",
+  "variant": "Mi-24D",
+  "category": "helicopter",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Attack / assault helicopter",
+  "specs": {
+    "length_m": 21.6,
+    "wingspan_m": 17.3,
+    "height_m": 6.5,
+    "wing_area_m2": 235,
+    "empty_weight_kg": 8500,
+    "mtow_kg": 12000,
+    "max_speed_kmh": 335,
+    "cruise_speed_kmh": 270,
+    "range_km": 450,
+    "ceiling_m": 4500,
+    "engine_count": 2,
+    "engine_type": "Isotov TV3-117 turboshaft, 1,640 kW each",
+    "power_kw_total": 3280,
+    "crew": 3,
+    "passengers": 8,
+    "first_flight": 1969,
+    "introduced": 1972,
+    "number_built": 2648,
+    "unit_cost_usd_m": 12
+  },
+  "notes": {
+    "length_m": "with rotors turning; fuselage 17.5 m",
+    "wingspan_m": "main rotor diameter",
+    "wing_area_m2": "main rotor disc area",
+    "passengers": "troops",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "Mil Mi-24 HIND.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mil_Mi-24_HIND.svg",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 series, vectorised (Wikimedia Commons)"
+  }
+}

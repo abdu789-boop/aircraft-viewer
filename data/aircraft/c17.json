@@ -1,0 +1,42 @@
+{
+  "id": "c17",
+  "name": "Boeing C-17 Globemaster III",
+  "manufacturer": "McDonnell Douglas / Boeing",
+  "variant": "C-17A",
+  "category": "transport",
+  "sector": "military",
+  "country": "United States",
+  "role": "Strategic airlifter",
+  "specs": {
+    "length_m": 53.04,
+    "wingspan_m": 51.75,
+    "height_m": 16.79,
+    "wing_area_m2": 353,
+    "empty_weight_kg": 128100,
+    "mtow_kg": 265350,
+    "max_speed_kmh": 917,
+    "cruise_speed_kmh": 830,
+    "range_km": 4482,
+    "ceiling_m": 13700,
+    "engine_count": 4,
+    "engine_type": "Pratt & Whitney F117-PW-100 turbofan",
+    "thrust_kn_total": 720,
+    "crew": 3,
+    "passengers": 102,
+    "first_flight": 1991,
+    "introduced": 1995,
+    "number_built": 279,
+    "unit_cost_usd_m": 218
+  },
+  "notes": {
+    "passengers": "paratroopers; 134 troops with seats",
+    "range_km": "with 71,000 kg payload",
+    "unit_cost_usd_m": "FY2007 flyaway"
+  },
+  "drawing": {
+    "title": "McDonnell Douglas C-17A Globemaster III 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_C-17A_Globemaster_III_3-view_line_drawing.png",
+    "license": "Public domain",
+    "author": "United States Air Force"
+  }
+}

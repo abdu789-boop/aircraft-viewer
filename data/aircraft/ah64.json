@@ -1,0 +1,45 @@
+{
+  "id": "ah64",
+  "name": "Boeing AH-64 Apache",
+  "manufacturer": "McDonnell Douglas / Boeing",
+  "variant": "AH-64A",
+  "category": "helicopter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Attack helicopter",
+  "specs": {
+    "length_m": 17.73,
+    "wingspan_m": 14.63,
+    "height_m": 4.66,
+    "wing_area_m2": 168.1,
+    "empty_weight_kg": 5165,
+    "mtow_kg": 9525,
+    "max_speed_kmh": 293,
+    "cruise_speed_kmh": 265,
+    "range_km": 476,
+    "ceiling_m": 6400,
+    "engine_count": 2,
+    "engine_type": "General Electric T700-GE-701 turboshaft, 1,265 kW each",
+    "power_kw_total": 2530,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1975,
+    "introduced": 1986,
+    "number_built": 2400,
+    "unit_cost_usd_m": 20
+  },
+  "notes": {
+    "length_m": "with rotors turning; fuselage 15.06 m",
+    "wingspan_m": "main rotor diameter",
+    "wing_area_m2": "main rotor disc area",
+    "height_m": "overall, to top of rotor; 3.87 m to rotor hub",
+    "number_built": "all variants, approx.",
+    "unit_cost_usd_m": "AH-64A 1986 flyaway, estimate"
+  },
+  "drawing": {
+    "title": "McDonnell Douglas AH-64 Apache 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_AH-64_Apache_3-view_line_drawing.png",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 via Wikimedia Commons (airdefense.bliss.army.mil)"
+  }
+}

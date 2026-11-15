@@ -1,0 +1,44 @@
+{
+  "id": "av8b",
+  "name": "McDonnell Douglas AV-8B Harrier II",
+  "manufacturer": "McDonnell Douglas / BAE Systems",
+  "variant": "AV-8B",
+  "category": "fighter",
+  "sector": "military",
+  "country": "United States / United Kingdom",
+  "role": "V/STOL ground-attack aircraft",
+  "specs": {
+    "length_m": 14.12,
+    "wingspan_m": 9.25,
+    "height_m": 3.55,
+    "wing_area_m2": 22.6,
+    "empty_weight_kg": 6340,
+    "mtow_kg": 14100,
+    "max_speed_kmh": 1083,
+    "cruise_speed_kmh": 800,
+    "range_km": 2200,
+    "ceiling_m": 15000,
+    "engine_count": 1,
+    "engine_type": "Rolls-Royce Pegasus F402-RR-408 vectored-thrust turbofan",
+    "thrust_kn_total": 106,
+    "crew": 1,
+    "passengers": 0,
+    "first_flight": 1981,
+    "introduced": 1985,
+    "number_built": 337,
+    "unit_cost_usd_m": 30
+  },
+  "notes": {
+    "range_km": "ferry",
+    "unit_cost_usd_m": "FY1996 approx.",
+    "cruise_speed_kmh": "estimate",
+    "number_built": "AV-8B incl. Harrier GR5/7/9 approx. 420"
+  },
+  "drawing": {
+    "title": "McDonnell Douglas AV-8B Harrier II 3-view line drawing.png",
+    "url": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_AV-8B_Harrier_II_3-view_line_drawing.png",
+    "license": "Public domain",
+    "author": "U.S. Army FM 44-80 via Wikimedia Commons (airdefense.bliss.army.mil)",
+    "gear": "up"
+  }
+}

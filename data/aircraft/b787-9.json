@@ -1,0 +1,43 @@
+{
+  "id": "b787-9",
+  "name": "Boeing 787-9 Dreamliner",
+  "manufacturer": "Boeing",
+  "variant": "787-9",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Wide-body airliner",
+  "specs": {
+    "length_m": 62.81,
+    "wingspan_m": 60.12,
+    "height_m": 17.02,
+    "wing_area_m2": 377,
+    "empty_weight_kg": 128850,
+    "mtow_kg": 254011,
+    "max_speed_kmh": 954,
+    "cruise_speed_kmh": 903,
+    "range_km": 14140,
+    "ceiling_m": 13100,
+    "engine_count": 2,
+    "engine_type": "General Electric GEnx-1B74 / Rolls-Royce Trent 1000 turbofan",
+    "thrust_kn_total": 660,
+    "crew": 2,
+    "passengers": 296,
+    "first_flight": 2013,
+    "introduced": 2014,
+    "number_built": 1200,
+    "unit_cost_usd_m": 292.5
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 420",
+    "unit_cost_usd_m": "2019 list price",
+    "number_built": "approx. 2024",
+    "drawing": "silhouette derived from the 787-8 drawing with Boeing's 3.05 m fuselage plugs inserted ahead of and behind the wing; wing, tail and front view are the 787-8's (unchanged on the real aircraft)"
+  },
+  "drawing": {
+    "title": "Boeing 787-800 Dreamliner v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_787-800_Dreamliner_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons); 787-8 drawing stretched with fuselage plugs"
+  }
+}

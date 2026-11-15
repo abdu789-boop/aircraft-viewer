@@ -1,0 +1,42 @@
+{
+  "id": "b737-300",
+  "name": "Boeing 737-300",
+  "manufacturer": "Boeing",
+  "variant": "737-300",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "United States",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 33.4,
+    "wingspan_m": 28.88,
+    "height_m": 11.13,
+    "wing_area_m2": 91,
+    "empty_weight_kg": 32700,
+    "mtow_kg": 62820,
+    "max_speed_kmh": 876,
+    "cruise_speed_kmh": 795,
+    "range_km": 4400,
+    "ceiling_m": 11300,
+    "engine_count": 2,
+    "engine_type": "CFM International CFM56-3B1 turbofan",
+    "thrust_kn_total": 178,
+    "crew": 2,
+    "passengers": 126,
+    "first_flight": 1984,
+    "introduced": 1984,
+    "number_built": 1113,
+    "unit_cost_usd_m": 30
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 149",
+    "unit_cost_usd_m": "1990s price, approx.",
+    "number_built": "737-300 only"
+  },
+  "drawing": {
+    "title": "Boeing 737-300 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Boeing_737-300_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

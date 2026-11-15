@@ -1,0 +1,43 @@
+{
+  "id": "mig31",
+  "name": "Mikoyan MiG-31 Foxhound",
+  "manufacturer": "Mikoyan",
+  "variant": "MiG-31B",
+  "category": "fighter",
+  "sector": "military",
+  "country": "Soviet Union / Russia",
+  "role": "Supersonic interceptor",
+  "specs": {
+    "length_m": 22.69,
+    "wingspan_m": 13.46,
+    "height_m": 6.15,
+    "wing_area_m2": 61.6,
+    "empty_weight_kg": 21825,
+    "mtow_kg": 46200,
+    "max_speed_kmh": 3000,
+    "cruise_speed_kmh": 2500,
+    "range_km": 3000,
+    "ceiling_m": 20600,
+    "engine_count": 2,
+    "engine_type": "Soloviev D-30F6 afterburning turbofan",
+    "thrust_kn_total": 304,
+    "crew": 2,
+    "passengers": 0,
+    "first_flight": 1975,
+    "introduced": 1981,
+    "number_built": 519,
+    "unit_cost_usd_m": 60
+  },
+  "notes": {
+    "cruise_speed_kmh": "supersonic cruise, Mach 2.35",
+    "range_km": "ferry with external tanks",
+    "unit_cost_usd_m": "estimate"
+  },
+  "drawing": {
+    "title": "Mikoyan MiG-31 3-view.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Mikoyan_MiG-31_3-view.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kaboldy (Wikimedia Commons)",
+    "gear": "up"
+  }
+}

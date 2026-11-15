@@ -1,0 +1,42 @@
+{
+  "id": "a321",
+  "name": "Airbus A321",
+  "manufacturer": "Airbus",
+  "variant": "A321-200",
+  "category": "airliner",
+  "sector": "civilian",
+  "country": "European Union",
+  "role": "Narrow-body airliner",
+  "specs": {
+    "length_m": 44.51,
+    "wingspan_m": 34.1,
+    "height_m": 11.76,
+    "wing_area_m2": 122.6,
+    "empty_weight_kg": 48500,
+    "mtow_kg": 93500,
+    "max_speed_kmh": 871,
+    "cruise_speed_kmh": 828,
+    "range_km": 5950,
+    "ceiling_m": 12500,
+    "engine_count": 2,
+    "engine_type": "CFM56-5B / IAE V2500 turbofan",
+    "thrust_kn_total": 280,
+    "crew": 2,
+    "passengers": 185,
+    "first_flight": 1993,
+    "introduced": 1994,
+    "number_built": 1790,
+    "unit_cost_usd_m": 118.3
+  },
+  "notes": {
+    "passengers": "typical 2-class; maximum 220",
+    "unit_cost_usd_m": "2018 list price",
+    "number_built": "A321ceo, approx."
+  },
+  "drawing": {
+    "title": "Airbus A321 v1.0.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Airbus_A321_v1.0.png",
+    "license": "CC BY-SA 3.0",
+    "author": "Julien.scavini (Wikimedia Commons)"
+  }
+}

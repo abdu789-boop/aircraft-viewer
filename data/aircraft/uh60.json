@@ -1,0 +1,46 @@
+{
+  "id": "uh60",
+  "name": "Sikorsky UH-60 Black Hawk",
+  "manufacturer": "Sikorsky",
+  "variant": "UH-60A",
+  "category": "helicopter",
+  "sector": "military",
+  "country": "United States",
+  "role": "Utility helicopter",
+  "specs": {
+    "length_m": 19.76,
+    "wingspan_m": 16.36,
+    "height_m": 5.13,
+    "wing_area_m2": 210,
+    "empty_weight_kg": 4819,
+    "mtow_kg": 9980,
+    "max_speed_kmh": 296,
+    "cruise_speed_kmh": 278,
+    "range_km": 592,
+    "ceiling_m": 5790,
+    "engine_count": 2,
+    "engine_type": "General Electric T700-GE-700 turboshaft, 1,210 kW each",
+    "power_kw_total": 2420,
+    "crew": 4,
+    "passengers": 11,
+    "first_flight": 1974,
+    "introduced": 1979,
+    "number_built": 4000,
+    "unit_cost_usd_m": 21
+  },
+  "notes": {
+    "length_m": "with rotors turning; fuselage 15.26 m",
+    "wingspan_m": "main rotor diameter",
+    "wing_area_m2": "main rotor disc area",
+    "crew": "2 pilots + 2 crew chiefs",
+    "passengers": "troops",
+    "number_built": "all variants, approx.",
+    "unit_cost_usd_m": "UH-60L, 2014 approx."
+  },
+  "drawing": {
+    "title": "Sikorsky UH-60A Black Hawk.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Sikorsky_UH-60A_Black_Hawk.svg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kaboldy (Wikimedia Commons)"
+  }
+}
