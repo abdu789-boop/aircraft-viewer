@@ -3,6 +3,8 @@
 Compare aircraft silhouettes to scale from the top, side and front, with specs side by side.
 The idea is carsized.com, for aircraft.
 
+**Live:** https://abdu789-boop.github.io/aircraft-viewer/
+
 ## Run
 
 ```bash
@@ -11,6 +13,7 @@ npm run dev
 ```
 
 Static site, no backend. `npm run build` produces `dist/` for any static host.
+Every push to `main` is deployed to GitHub Pages by `.github/workflows/pages.yml`.
 
 ## How it works
 
